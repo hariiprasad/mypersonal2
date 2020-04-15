@@ -7,10 +7,74 @@
    ],
   
   "collection": [
-     {
+    {
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/TempGlobal/alternativemix/8.png",
+      "size": "2 Templates",
+      "name": "Alternative Mix"
+  },{
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/TempGlobal/avengers/avengers.jpg",
+      "size": "2 Templates",
+      "name": "Avengers"
+  },{
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/TempGlobal/ChappellesShow/chappellesshow.jpg",
+      "size": "2 Templates",
+      "name": "Chappelles Show"
+  },{
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/TempGlobal/Die_hard_Movie/1.png",
+      "size": "2 Templates",
+      "name": "Die hard Movie"
+  },{
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/TempGlobal/gravityfalls/gravityfalls.jpg",
+      "size": "2 Templates",
+      "name": "Gravity falls"
+  },{
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/TempGlobal/Hunter_X_Hunter/hunter.jpg",
+      "size": "2 Templates",
+      "name": "Hunter X Hunter"
+  },{
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/TempGlobal/Joker2019/joker.jpg",
+      "size": "2 Templates",
+      "name": "Joker 2019"
+  },{
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/TempGlobal/RandomandMix/random.jpg",
+      "size": "2 Templates",
+      "name": "Random and Social Media"
+  },{
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/TempGlobal/Kids/23.png",
+      "size": "2 Templates",
+      "name": "	Kids"
+  },{
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/TempGlobal/Pokemon/pokemon.jpg",
+      "size": "2 Templates",
+      "name": "Pokemon"
+  },{
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/TempGlobal/RickandMorty/rickmorty.jpg",
+      "size": "2 Templates",
+      "name": "Rick and Morty"
+  },{
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/TempGlobal/Spiderman/20.png",
+      "size": "2 Templates",
+      "name": "Spiderman"
+  },{
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/TempGlobal/spongebob/spongebob.jpg",
+      "size": "2 Templates",
+      "name": "Spongebob"
+  },{
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/TempGlobal/Sports/sports.jpg",
+      "size": "2 Templates",
+      "name": "Sports"
+  },{
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/TempGlobal/Thesimpsons/simpsons.jpg",
+      "size": "2 Templates",
+      "name": "The Simpsons"
+  },{
       "url": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/HindiTemp/tomandjerry/tomandjerry.jpg",
       "size": "2 Templates",
       "name": "Tom and Jerry"
-  },
+  },{
+      "url": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/TempGlobal/Winnie_the_pooh/winnie.jpg",
+      "size": "2 Templates",
+      "name": "Winnie the pooh"
+  }
  ]
 }

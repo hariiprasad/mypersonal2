@@ -1,1 +1,42 @@
-[{"id":21,"title":"SUPERHERO","image":"https:\/\/stickers.virmana.com\/uploads\/cache\/category_thumb_api\/uploads\/png\/44fe9e43903af12cefe4eb298d58605d.png"},{"id":24,"title":"MOVIESS","image":"https:\/\/stickers.virmana.com\/uploads\/cache\/category_thumb_api\/uploads\/png\/c576723a3e1ad896ee7ff83e7a2113bb.png"},{"id":25,"title":"FUNNY","image":"https:\/\/stickers.virmana.com\/uploads\/cache\/category_thumb_api\/uploads\/png\/529d3e094b1cecef609110c0cff3d2c6.png"},{"id":26,"title":"Animals","image":"https:\/\/stickers.virmana.com\/uploads\/cache\/category_thumb_api\/uploads\/png\/527b7e30c49920e323df0766fbb5ebbe.png"},{"id":27,"title":"Cartoon","image":"https:\/\/stickers.virmana.com\/uploads\/cache\/category_thumb_api\/uploads\/png\/70a3d972cc1d7a17ffddcd3cf779a910.png"},{"id":23,"title":"GAMES","image":"https:\/\/stickers.virmana.com\/uploads\/cache\/category_thumb_api\/uploads\/png\/e0028baebcb0972b866d5f5f4ef365ae.png"}]
+[
+  {
+    "id": 1,
+    "title": "స్టిక్కెర్లు తెలుగులో",
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/stickercaticons/covidt10.webp"
+  },
+  {
+    "id": 2,
+    "title": "తెలుగు టెక్స్ట్ స్టిక్కెర్లు",
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/stickercaticons/text.png"
+  },
+  {
+    "id": 3,
+    "title": "Wishes",
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/stickercaticons/wishes.png"
+  },
+  {
+    "id": 4,
+    "title": "Festivals",
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/stickercaticons/festivals.png"
+  },
+  {
+    "id": 5,
+    "title": "tiktok",
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/stickercaticons/tiktok.png"
+  },
+  {
+    "id": 6,
+    "title": "cricket",
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/stickercaticons/cricket.png"
+  },
+  {
+    "id": 7,
+    "title": "Hindi",
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/stickercaticons/Hindi.png"
+  },
+  {
+    "id": 6,
+    "title": "English or Hollywood",
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/stickercaticons/English.png"
+  }
+]

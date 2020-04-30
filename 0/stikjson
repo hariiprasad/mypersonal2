@@ -1,4 +1,136 @@
 [{
+"dialog": "Hera Pheri Akshay Kumar",
+      "identifier": "herapheri",
+      "name": "Hera Pheri",
+      "publisher": "Stickers Raja",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2Fhera%20pheri.png?alt=media&token=b35f7481-bbd7-4701-802a-70225619f0af",
+      "publisher_email":"stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F1.webp?alt=media&token=bcd526ac-c1ae-433e-8529-0268a3c61399",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F2.webp?alt=media&token=4e9e0d36-8960-434d-b2c2-8006329a8c9c",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F3.webp?alt=media&token=6c6b1a91-b9f4-49a9-910c-9023cada3951",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F4.webp?alt=media&token=4975ce89-3f66-46a9-a8bc-4f712ba504fc",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F5.webp?alt=media&token=3c9f0dea-0744-4314-8ac6-d974f525f38a",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F6.webp?alt=media&token=c6223bb2-5b59-46c0-8db6-d3309325c77f",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F7.webp?alt=media&token=a3c569e7-7984-4591-8084-af2fc8fb36bb",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F8.webp?alt=media&token=e69971f7-8947-4a22-9c47-0331700aad82",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F9.webp?alt=media&token=775d316a-4dd4-4966-b95a-773ea8c80573",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F10.webp?alt=media&token=aba704d0-e100-4fb0-97c8-6ca64848bea9",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F11.webp?alt=media&token=d2b1a53a-5e95-40bc-8e7b-ad1da5123b8a",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F12.webp?alt=media&token=d73ee904-4ea3-4bae-86d8-9ae983a9ca9d",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F13.webp?alt=media&token=f20a7a00-f197-4f68-b695-d8ce1517df22",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F14.webp?alt=media&token=dbacb097-0a26-482e-ba0b-fdf25df6a108",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F15.webp?alt=media&token=7070ef8d-ae3d-4db4-a33b-17bd7489ac50",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F16.webp?alt=media&token=470179c9-e601-46f8-babe-12b27a3420d1",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F17.webp?alt=media&token=ccb60285-2427-4be5-ad11-39fa543bf07d",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F18.webp?alt=media&token=0ccb42f8-e05f-4772-9afc-57b61797276c",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F19.webp?alt=media&token=759bc0e3-201c-4fe1-833f-a0472aa0efcd",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F20.webp?alt=media&token=ff719199-8195-43ec-af97-3bf6d8224371",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F21.webp?alt=media&token=bfad98cf-19cc-4d5b-9d52-97a97c0dcafa",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F22.webp?alt=media&token=01edbc05-149b-453a-a682-5bd497842530",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F23.webp?alt=media&token=1d9dbe90-65fe-442e-abc0-1e5e3e18dc00",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F24.webp?alt=media&token=93a3ad27-96d0-4b53-a37f-ead4b87604c8",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F25.webp?alt=media&token=c48d7df6-e146-4077-af09-1c9289569966",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F26.webp?alt=media&token=6f403656-4b7a-4622-b4ad-9b2ce7e9539b",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F27.webp?alt=media&token=5b83ef32-bc7d-49bb-8042-c07461022f83",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F28.webp?alt=media&token=224b1f57-91e4-48bc-a697-8962cac78d25",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F29.webp?alt=media&token=d5991687-2538-4373-9c0a-73b1a5f52c18",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fherapheri%2F30.webp?alt=media&token=a5e4fd33-379d-4905-9531-7012ff66bbc6",
+          "emojis": [":)"]
+        }
+      ]
+    },{
 		"dialog": "Avengers",
       "identifier": "avengers",
       "name": "Avengers",

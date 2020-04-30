@@ -1,4 +1,136 @@
 [{
+		"dialog": "Avengers",
+      "identifier": "avengers",
+      "name": "Avengers",
+      "publisher": "Stickers Raja",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers.png?alt=media&token=47250e98-4e20-4592-bb94-fd006fe01179",
+      "publisher_email":"stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers1.webp?alt=media&token=21e71120-4ead-4172-9fbd-c7d98eb5f719",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers2.webp?alt=media&token=d274d94e-1aed-4bcb-8ef7-5eda7148a7a1",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers3.webp?alt=media&token=6680d191-00f2-4d33-887f-b15a9161f5a3",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers4.webp?alt=media&token=52da6b92-9deb-40df-bfb1-4bc8883a58eb",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers5.webp?alt=media&token=387882f4-c809-4189-82f8-c15d2561f59a",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers6.webp?alt=media&token=9bf33895-0726-4e43-8964-562617827f8b",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers7.webp?alt=media&token=303b9db4-ec43-4079-8fa0-5270e9da7368",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers8.webp?alt=media&token=62a15f6c-432b-4d62-ad9a-b77a4a27c644",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers9.webp?alt=media&token=8e54edd2-ca6b-481a-8114-5b610bb90645",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers10.webp?alt=media&token=bdaf2a35-ee95-49b2-abdf-1e856bd7b555",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers11.webp?alt=media&token=70a6a688-ce94-4c7a-b743-9cf97e6265e5",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers12.webp?alt=media&token=e6fd5ba1-ee9f-4f1d-86a1-20cf011c417e",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers13.webp?alt=media&token=6af3bea6-56bc-42f8-af21-620526a27cb0",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers14.webp?alt=media&token=749e43b9-e605-4ab5-8c08-7406fa90f9cf",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers15.webp?alt=media&token=7ed2b335-ef7f-4899-9fb9-d5896031ef2d",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers16.webp?alt=media&token=fe57b62f-1af6-4743-8fc9-6dcc0d1c063c",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers17.webp?alt=media&token=0b3ea1bb-3933-48f3-9381-708c0433da28",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers18.webp?alt=media&token=b1083427-93d5-408b-a292-3168bd0ddb10",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers19.webp?alt=media&token=2b9c0f77-38f3-437f-af28-3637cf136be6",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers20.webp?alt=media&token=88f0d243-847a-463e-a267-25101621540a",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers21.webp?alt=media&token=26a2faa4-0b73-4fe4-910a-3b81b3c5ee86",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers22.webp?alt=media&token=dd29744d-02c2-41ea-b3e5-9fbd3ca6f2a8",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers23.webp?alt=media&token=59202623-13e1-4db8-a607-245323439af7",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers24.webp?alt=media&token=604e3156-3777-4c9a-97d5-afb5074cad3a",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers25.webp?alt=media&token=6ef7c527-60ca-4117-be4a-6b311b28b33a",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers26.webp?alt=media&token=89d32536-4e13-46c7-8250-eb51a5b7a538",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers27.webp?alt=media&token=457ed056-49b8-4632-9bd2-6a1ae46686d6",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers28.webp?alt=media&token=82273640-5a77-4ea6-9bef-ec916469b685",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers29.webp?alt=media&token=1f310640-5f64-42a5-9884-b2460a5415ef",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Favengers%2Favengers30.webp?alt=media&token=2c115d57-97cd-4ae0-8468-692ca8162789",
+          "emojis": [":)"]
+        }
+      ]
+    },{
 	"dialog": "Covid 191",
 	"identifier": "covid19",
 	"license_agreement_website": "",

@@ -130,6 +130,7 @@
 			}
 		]
 	}, {
+		"dialog": "pack1",
 		"identifier": "pack1",
 		"name": "Pack 1",
 		"publisher": "Meme stickers by stickers raja",

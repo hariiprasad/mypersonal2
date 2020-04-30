@@ -2914,6 +2914,7 @@
 	}],
 	"tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fjoker%2Fjoker.png?alt=media&token=e4f89632-9cdd-4fe4-90b8-cf206d436c5e"
 }, {
+	"dialog": "Dhee",
 	"identifier": "dhee",
 	"license_agreement_website": "",
 	"name": "Dhee Stickers",

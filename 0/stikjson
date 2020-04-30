@@ -7841,6 +7841,7 @@
 	}],
 	"tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftray_images%2Fpawankalyan.png?alt=media&token=832c1148-606f-4386-b6d2-6a0a2244d514"
 }, {
+	"dialog" : "raviteja",
 	"identifier": "raviteja",
 	"license_agreement_website": "",
 	"name": "Raviteja",

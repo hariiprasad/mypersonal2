@@ -1,88 +1,25 @@
 [
-  {
+ {
     "id": 1,
-    "title": "a3Rjdmdo",
-    "type": "3",
-    "pos" : 2,
-    "image": "https://greedy.zdic.xyz/uploads/cache/slide_thumb/uploads/jpeg/d9a1e6e62be47743ea3af2d7bc58e052.jpeg",
-    "image_file_thum": "https://greedy.zdic.xyz/media/cache/resolve/sticker_image_thum/uploads/png/1863f3f9e0f4ba2f1e4c9832e9f2929d.png",
-    "image_file": "https://greedy.zdic.xyz/uploads/png/1863f3f9e0f4ba2f1e4c9832e9f2929d.png",
-    "emojis": [
-      "8J+YgA=="
-    ],
-    "pack": {
-      "identifier": 2,
-      "name": "hello",
-      "publisher": "funny",
-
-      "tray_image_file": "https://greedy.zdic.xyz/uploads/cache/tray_image/uploads/png/af8b05720af4aea42f04b48e892d5c80.png",
-      "publisher_email": "yqvec@xyz.com",
-      "publisher_website": "https://greedy.zdic.xyz",
-      "privacy_policy_website": "https://greedy.zdic.xyz",
-      "license_agreement_website": "vava",
-      "premium": "false",
-      "review": "false",
-      "trusted": "true",
-      "downloads": "0",
-      "size": "566 KB",
-      "created": "5 days ago",
-      "user": "Ngoma Lodin",
-      "userid": "1",
-      "userimage": "https://review.gbtcdn.com/upload/gearbest/avatar/20170603/40B058FF5D6FF8D7A18F6A937B88B65E.jpg",
-      "stickers": [
-        {
-          "id": 1,
-          "title": "a3Rjdmdo",
-          "type": "3",
-          "image": "https://greedy.zdic.xyz/uploads/cache/slide_thumb/uploads/jpeg/d9a1e6e62be47743ea3af2d7bc58e052.jpeg",
-          "image_file_thum": "https://greedy.zdic.xyz/media/cache/resolve/sticker_image_thum/uploads/png/72f17300a83a31cec576a39f8231afd9.png",
-          "image_file": "https://greedy.zdic.xyz/uploads/png/72f17300a83a31cec576a39f8231afd9.png",
-          "emojis": [
-            "8J+YgA=="
-          ]
-        },
-        {
-          "id": 1,
-          "title": "a3Rjdmdo",
-          "type": "3",
-          "image": "https://greedy.zdic.xyz/uploads/cache/slide_thumb/uploads/jpeg/d9a1e6e62be47743ea3af2d7bc58e052.jpeg",
-          "image_file_thum": "https://greedy.zdic.xyz/media/cache/resolve/sticker_image_thum/uploads/png/f5ea4300ed6f3e4a76300ce51f82dfab.png",
-          "image_file": "https://greedy.zdic.xyz/uploads/png/f5ea4300ed6f3e4a76300ce51f82dfab.png",
-          "emojis": [
-            "8J+YgA=="
-          ]
-        },
-        {
-          "id": 1,
-          "title": "a3Rjdmdo",
-          "type": "3",
-          "image": "https://greedy.zdic.xyz/uploads/cache/slide_thumb/uploads/jpeg/d9a1e6e62be47743ea3af2d7bc58e052.jpeg",
-          "image_file_thum": "https://greedy.zdic.xyz/media/cache/resolve/sticker_image_thum/uploads/png/1f5721c0d7a45ce07a11f1d17692b82f.png",
-          "image_file": "https://greedy.zdic.xyz/uploads/png/1f5721c0d7a45ce07a11f1d17692b82f.png",
-          "emojis": [
-            "8J+YgA=="
-          ]
-        },
-        {
-          "id": 1,
-          "title": "a3Rjdmdo",
-          "type": "3",
-          "image": "https://greedy.zdic.xyz/uploads/cache/slide_thumb/uploads/jpeg/d9a1e6e62be47743ea3af2d7bc58e052.jpeg",
-          "image_file_thum": "https://greedy.zdic.xyz/media/cache/resolve/sticker_image_thum/uploads/png/1863f3f9e0f4ba2f1e4c9832e9f2929d.png",
-          "image_file": "https://greedy.zdic.xyz/uploads/png/1863f3f9e0f4ba2f1e4c9832e9f2929d.png",
-          "emojis": [
-            "8J+YgA=="
-          ]
-        }
-      ]
-    }
+    "title": "5 star Rating ivvandi ayya",
+    "type": "2",
+    "pos" : 9,
+    "image": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/rateadhurs.jpg",
+    "url": "https://play.google.com/store/apps/details?id=com.stickersrajatelugu.stickersrajatelugu"
   },
   {
     "id": 2,
-    "title": "c2prczV5ag==",
+    "title": "Instagram lo follow avvandi ra babu",
     "type": "2",
     "pos" : 2,
     "image": "https://greedy.zdic.xyz/uploads/cache/slide_thumb/uploads/jpeg/1842314af7a130a75675a82fbcef8f46.jpeg",
+    "url": "https://instagram.com/stickersraja"
+  },{
+    "id": 3,
+    "title": "Movie Mix Stickers Added",
+    "type": "3",
+    "pos" : 9,
+    "image": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/moviemixslide.jpeg",
     "url": "https://instagram.com/stickersraja"
   }
 ]

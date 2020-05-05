@@ -5131,7 +5131,51 @@
 		"image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpolitical2%2Fpolitical2_30.webp?alt=media&token=5ed2e070-b48e-4359-be2a-c72b78763913"
 	}],
 	"tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpolitical2%2Fpolitical2.png?alt=media&token=7af11401-80a3-4b87-9566-d3300d9cad4d"
-}, {
+},{
+	"dialog": "orange ram charan lover bava truth or dare na gurinchi na feeling idhey great manche korukuntadu i quit",
+      "identifier": "orangee",
+      "name": "Orange",
+      "publisher": "Stickers Raja",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2Forange.png?alt=media&token=b3a9fda8-1eba-4ef6-8521-37e55aa4d39e",
+      "publisher_email":"stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2F1.webp?alt=media&token=6102a41e-d724-4644-9c05-e48ead5e5036",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2F2.webp?alt=media&token=66aa4282-658f-4b03-b8f1-022864113ae3",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2F3.webp?alt=media&token=a2232da0-9a42-4dd7-9499-7bb1fe3ef334",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2F4.webp?alt=media&token=32d16eb2-72bb-4808-b770-8e955f4c776c",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2F5.webp?alt=media&token=261afb24-ad78-41ec-b4ab-e04ff892d8f2",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2F6.webp?alt=media&token=a3a55843-6086-4e69-9404-39400b862462",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2F7.webp?alt=media&token=94400ea8-e582-4a8a-b204-49748c2954e6",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2F8.webp?alt=media&token=5a0bf757-85fa-47e3-9524-ffcf622e38a8",
+          "emojis": [":)"]
+        }
+      ]
+    }, {
 	"dialog": "Meeku Matrame cheptha2",
 	"identifier": "mmc22",
 	"license_agreement_website": "",

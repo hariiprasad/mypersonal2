@@ -1,5 +1,137 @@
 [
 {
+      "dialog": "3 idiots",
+      "identifier": "3idiots",
+      "name": "3 idiots",
+      "publisher": "Stickers Raja",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F3idiots.png?alt=media&token=c29c12b8-6061-4740-a9a5-2b31da4f4ba3",
+      "publisher_email":"stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F1.webp?alt=media&token=26a2f7cb-7ac1-416b-817a-a2951ae0ad2b",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F2.webp?alt=media&token=4f0e76cc-5f9c-4776-8ab1-8c82822e9f6e",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F3.webp?alt=media&token=cd784d6c-1c79-4e33-aed5-c781c54c6a33",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F4.webp?alt=media&token=ec1ada7e-4201-4b26-8f29-547458de7520",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F5.webp?alt=media&token=98290b1a-da35-4234-b6b5-1c548f883b5c",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F6.webp?alt=media&token=c928e388-9cc0-4354-b605-1cd2ab2edfd8",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F7.webp?alt=media&token=42f19bb4-f193-4c1f-a23a-688b186c7c23",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F8.webp?alt=media&token=43fd27e4-380a-4dcc-ae81-c23deedbd92a",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F9.webp?alt=media&token=0ac64bd5-3902-47a2-8f19-c999cf5ea382",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F10.webp?alt=media&token=43c8a8b4-aafe-4289-a3ff-067efbd35aec",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F11.webp?alt=media&token=fe6451df-acf4-49ab-9f33-0b304fa0a838",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F12.webp?alt=media&token=dc6e413d-87d9-46e7-aaf4-f2f78bf772e9",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F13.webp?alt=media&token=9436c4b3-6d38-4cf6-b73e-53e8f48b2110",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F14.webp?alt=media&token=2ebde3f9-4bb4-4393-8cdc-90d5f8adf3a1",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F15.webp?alt=media&token=4bc84b29-df2a-4435-855d-83a24bfaf3a4",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F16.webp?alt=media&token=42ad6198-d7c9-4f45-a5b5-1f3bfef785b4",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F17.webp?alt=media&token=4c9d2dec-3ed7-4eaf-b519-2f046937afcf",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F18.webp?alt=media&token=cf25e8aa-8304-4d4e-a970-bc9bec5c9b3a",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F19.webp?alt=media&token=1d1d27e8-af75-4bb2-be49-d97a500af2d7",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F20.webp?alt=media&token=b11f708c-8a76-4aa6-8206-d7a2afb5e2e5",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F21.webp?alt=media&token=fa9d98f2-6742-4e28-a697-25fa682d328e",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F22.webp?alt=media&token=eae4d9b3-6ca9-4cbb-b69f-d452c1c86d85",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F23.webp?alt=media&token=7d0af799-e054-487c-83d2-1e0ea3995669",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F24.webp?alt=media&token=e9fc5951-6de1-4c5b-9e5b-31140e158a76",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F25.webp?alt=media&token=a6441968-a85d-4457-b71f-462e7c24d38c",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F26.webp?alt=media&token=e5b008a1-10d3-419d-955b-eac37fe80b50",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F27.webp?alt=media&token=74ed81a1-11e2-4f9f-a49d-7c2d968e6c66",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F28.webp?alt=media&token=00185d80-6f9e-4962-9db1-0a331d61b7fc",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F29.webp?alt=media&token=f31cb128-4e11-487a-ac44-5ba6d3f93973",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2F3idiots%2F30.webp?alt=media&token=2e2411d7-e4fc-40dc-a86a-e45a0942c754",
+          "emojis": [":)"]
+        }
+      ]
+    },{
 "dialog": "Hera Pheri Akshay Kumar",
       "identifier": "herapheri",
       "name": "Hera Pheri",

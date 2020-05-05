@@ -3407,7 +3407,51 @@
       }
     ],
     "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fmathut%2Fmathutel1.png?alt=media&token=99ee7e11-2f7e-47b9-b890-6a9c3d9ff49f"
-  },
+  },{
+  	"dialog": "ఆరంజ్",
+      "identifier": "oranget",
+      "name": "ఆరంజ్",
+      "publisher": "స్టికెర్స్ రాజా",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2Forange.png?alt=media&token=b3a9fda8-1eba-4ef6-8521-37e55aa4d39e",
+      "publisher_email":"stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2Ft1.webp?alt=media&token=dd28fbd1-91a5-4a8b-b076-5de40d024595",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2Ft2.webp?alt=media&token=8deed464-7421-4fa1-9b3f-a04b7501f611",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2Ft3.webp?alt=media&token=7e6d7ea0-e86b-4a2c-829d-7c0becd12be4",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2Ft4.webp?alt=media&token=469ef5eb-3522-4b27-a3fc-80814ad555bf",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2Ft5.webp?alt=media&token=c27d1f2d-426d-4493-9ecd-3fb1abb1fb88",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2Ft6.webp?alt=media&token=9c297cc9-a0b6-4779-8475-1765a191fc94",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2Ft7.webp?alt=media&token=fe0f93b5-c600-494f-b75b-3c8619501c29",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Forange%2Ft8.webp?alt=media&token=0267d7cc-aae9-4179-82c9-ab14f2ec411a",
+          "emojis": [":)"]
+        }
+      ]
+    },
   {
     "dialog": "మూవీ మిక్స్  7",
     "identifier": "movie7t",

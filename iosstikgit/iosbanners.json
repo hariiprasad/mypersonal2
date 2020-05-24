@@ -1,0 +1,33 @@
+{
+  "Item" : [ 
+  {
+    "cat" : "sticker_packs",
+    "decide" : "yes",
+    "image" : "https://raw.githubusercontent.com/hariiprasad/my-personal/master/rating5.jpeg",
+    "pos" : 0,
+    "title" : "Rate Us",
+    "url" : "https://play.google.com/store/apps/details?id=com.stickersrajalite.stickersrajalite&hl=en"
+  },{
+    "cat" : "sticker_packs",
+    "decide" : "yes",
+    "image" : "https://raw.githubusercontent.com/hariiprasad/my-personal/master/instafollowrao.jpeg",
+    "pos" : 0,
+    "title" : "follow for latest updates",
+    "url" : "https://www.instagram.com/stickersraja/"
+  },{
+    "cat" : "sticker_packs",
+    "decide" : "s",
+    "image" : "https://raw.githubusercontent.com/hariiprasad/my-personal/master/moviemixslide.jpeg",
+    "pos" : 5,
+    "title" : "Moviemix Stickers",
+    "url" : "https://play.google.com/store/apps/details?id=com.stickersrajalite.stickersrajalite&hl=en"
+  },{
+    "cat" : "sticker_packs",
+    "decide" : "s",
+    "image" : "https://raw.githubusercontent.com/hariiprasad/my-personal/master/krkrslide.jpeg",
+    "pos" : 8,
+    "title" : "kamma rajyamlo kadapa Redlu",
+    "url" : "https://play.google.com/store/apps/details?id=com.stickersrajalite.stickersrajalite&hl=en"
+  }
+  ]
+}

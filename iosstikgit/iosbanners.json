@@ -2,31 +2,24 @@
   "Item" : [ 
   {
     "cat" : "sticker_packs",
-    "decide" : "yes",
-    "image" : "https://raw.githubusercontent.com/hariiprasad/my-personal/master/rating5.jpeg",
+    "decide" : "s",
+    "image" : "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/stikbanners/enebanner.jpg",
     "pos" : 0,
-    "title" : "Rate Us",
-    "url" : "https://play.google.com/store/apps/details?id=com.stickersrajalite.stickersrajalite&hl=en"
+    "title" : "ee nagarinki emaindi stickers Download Now",
+    "url" : "https://www.instagram.com/stickersraja/"
   },{
     "cat" : "sticker_packs",
     "decide" : "yes",
-    "image" : "https://raw.githubusercontent.com/hariiprasad/my-personal/master/instafollowrao.jpeg",
-    "pos" : 0,
-    "title" : "follow for latest updates",
+    "image" : "https://raw.githubusercontent.com/hariiprasad/my-personal/master/raofollow.jpeg",
+    "pos" : 5,
+    "title" : "Follow Us in instagram",
     "url" : "https://www.instagram.com/stickersraja/"
   },{
     "cat" : "sticker_packs",
     "decide" : "s",
     "image" : "https://raw.githubusercontent.com/hariiprasad/my-personal/master/moviemixslide.jpeg",
-    "pos" : 5,
-    "title" : "Moviemix Stickers",
-    "url" : "https://play.google.com/store/apps/details?id=com.stickersrajalite.stickersrajalite&hl=en"
-  },{
-    "cat" : "sticker_packs",
-    "decide" : "s",
-    "image" : "https://raw.githubusercontent.com/hariiprasad/my-personal/master/krkrslide.jpeg",
-    "pos" : 8,
-    "title" : "kamma rajyamlo kadapa Redlu",
+    "pos" : 11,
+    "title" : "Movie Mix Stickers Download Now",
     "url" : "https://play.google.com/store/apps/details?id=com.stickersrajalite.stickersrajalite&hl=en"
   }
   ]

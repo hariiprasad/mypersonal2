@@ -1,5 +1,137 @@
 [
   {
+  "dialog": "పోకిరి",
+      "identifier": "pokirit",
+      "name": "పోకిరి",
+      "publisher": "స్టికెర్స్ రాజా",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2Fpokiri.png?alt=media&token=80ed52f6-552c-42dc-ac11-ff08b4db3bee",
+      "publisher_email":"stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F1.webp?alt=media&token=5ae70d6b-a482-4d5a-87fd-4a06f651a77e",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F2.webp?alt=media&token=008ef83e-9feb-493d-a9bd-77a56417bc83",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F3.webp?alt=media&token=6b2c2651-7b5f-41cf-9670-4bd2048cad4c",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F4.webp?alt=media&token=9c5c55e5-0ca8-4bc4-9754-708e8479d563",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F5.webp?alt=media&token=6beb14dd-5b29-4b43-8a35-9c8167c3f0db",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F6.webp?alt=media&token=67799dd1-fd7e-4dd6-bafe-72eae9606041",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F7.webp?alt=media&token=1582c903-8eec-4692-bc59-fe66c0e56087",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F8.webp?alt=media&token=c277650f-3d8b-47d4-9c7a-72acbb52ab6c",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F9.webp?alt=media&token=d47c3cdf-9506-4594-9fa3-4b3e074048fe",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F10.webp?alt=media&token=8e88468f-d7bd-4050-ae75-0a6dff90b151",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F11.webp?alt=media&token=aecfc58a-deb9-4d75-beb6-54f696b71c18",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F12.webp?alt=media&token=99fa8c76-063e-427f-99a5-723869e6472e",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F13.webp?alt=media&token=1863703f-ffb4-41b3-a582-6bc220d4af62",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F14.webp?alt=media&token=3461911b-5159-49c2-8539-e267e792ba22",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F15.webp?alt=media&token=316fcb93-54d4-4d0c-af5b-60dcaa26ec90",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F16.webp?alt=media&token=39bfc4c3-5057-49e2-9512-81eef3c17d47",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F17.webp?alt=media&token=9c0933de-c57b-4903-97a1-bdc7611ad119",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F18.webp?alt=media&token=068de0f0-c9fa-4bcb-ac95-013a55b14cb0",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F19.webp?alt=media&token=4e5190c5-ec38-44e8-b8f6-c4b971ed23f0",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F20.webp?alt=media&token=ef2b11db-7cc9-40c1-b42d-af7c47b07827",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F21.webp?alt=media&token=8d245e56-b43b-449b-ad08-86d5a86344ff",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F22.webp?alt=media&token=dee19c52-bebf-4b79-aac3-ff2b389a0c78",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F23.webp?alt=media&token=26006555-9d89-4359-bcfd-7fd432da7c74",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F24.webp?alt=media&token=f7c36977-0577-49ef-8a68-8886c01b5fc8",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F25.webp?alt=media&token=c2f8c751-ecd6-4309-a195-28cb8e341ddb",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F26.webp?alt=media&token=cbd4d48b-cac0-428a-9d6b-d3e6f4faaf1f",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F27.webp?alt=media&token=5b6623bd-cab6-432a-bf48-0dd39e8595c9",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F28.webp?alt=media&token=5c7d5b90-b74e-43d5-bf73-f055d045237d",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F29.webp?alt=media&token=c383c7b9-b611-4207-9d6b-376517c95ec7",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fpokiri%2F30.webp?alt=media&token=5db4c041-350d-40c9-9433-b80ff51b9d5b",
+          "emojis": [":)"]
+        }
+      ]
+    },{
   	"dialog": "ఈ నగరానికి ఏమైంది  ",
       "identifier": "enet2t",
       "name": "ఈ నగరానికి ఏమైంది 2",

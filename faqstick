@@ -2,37 +2,37 @@
   {
     "id": 1,
     "title": "1Q. How to add Stickers / స్టికెర్స్  వాట్సాప్ కి ఎలా ఆడ్ చేసుకోవాలి",
-    "type" : "1";
+    "type" : "1",
     "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/step1.png"
   },
   {
     "id": 2,
     "title": "",
-    "type" : "1";
+    "type" : "1",
     "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/step2.png"
   },
   {
     "id": 3,
     "title": "",
-    "type" : "1";
+    "type" : "1",
     "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/step3.png"
   },
   {
     "id": 4,
     "title": "2Q. Why Stickers are Disappearing from whatsapp",
-    "type" : "1";
+    "type" : "1",
     "image": ""
   },
   {
     "id": 5,
     "title": "Case 1 You should not uninstall our App.If you unistall our App stickers will be gone.",
-    "type" : "1";
+    "type" : "1",
     "image": ""
   },
   {
     "id": 6,
     "title": "Case 2 Try turn off Battery Optimization for Stickers raja and Make sure to turnoff battery Saver",
-    "type" : "1";
+    "type" : "1",
     "image": ""
   },
   {
@@ -44,13 +44,13 @@
   {
     "id": 8,
     "title": "",
-    "type" : "1";
+    "type" : "1",
     "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/2step2.png"
   },
   {
     "id": 9,
     "title": "4Q. How to contact Us?",
-    "type" : "2";
+    "type" : "2",
     "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/faqimages/2step2.png"
   }
 ]

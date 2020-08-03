@@ -1,5 +1,118 @@
 [
   {
+  
+      "dialog": "Rakhi raki",  
+      "identifier": "rakhif",
+      "name": "Rakhi Pournami",
+      "publisher": "stickers Raja",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi26.png?alt=media&token=3f0bb70d-c6d0-4781-87c7-eb506d4212bc",
+      "publisher_email":"stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi1.webp?alt=media&token=f71ed8f3-c514-4ffb-878c-663e90aeef0b",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi2.webp?alt=media&token=5a286863-cde0-4d94-a9a9-da39c53530d1",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi3.webp?alt=media&token=35b80ca3-d4bb-4121-a401-b17e320cfe0f",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi4.webp?alt=media&token=b819bdfc-3410-4a17-80cb-781df9b8ae65",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi5.webp?alt=media&token=a3ff4750-3825-4d81-8e43-309301bde9ec",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi6.webp?alt=media&token=15505445-9b5f-4256-b644-3ebdb6c28be3",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi7.webp?alt=media&token=cffa66b8-67c8-44ac-9ab1-4535a0b2b74b",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi8.webp?alt=media&token=93231e3b-2bd8-457c-8a07-3026d68bd564",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi9.webp?alt=media&token=97e342ff-2c28-4d31-a3bc-c0530118f90a",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi10.webp?alt=media&token=d46d6e0e-8a98-4bf1-89ce-489c834ffe42",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi11.webp?alt=media&token=8c387705-7a0a-48a3-9c44-ba45637d9f22",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi12.webp?alt=media&token=fab7aebf-6065-4257-8075-e66670ce1f75",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi13.webp?alt=media&token=c2d5bdbc-ec19-4689-9e37-7697bc555f2b",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi14.webp?alt=media&token=d302092e-d6a0-4f61-801d-a83de307f9b5",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi15.webp?alt=media&token=8908fb7e-6f85-48e9-abc6-85f0ffc137e2",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi16.webp?alt=media&token=98b26284-6dbb-440e-aacd-392217f442d4",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi17.webp?alt=media&token=85237a78-fae4-4224-9445-174fb536f67e",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi18.webp?alt=media&token=5c068a0b-9d15-4ccb-b613-31ce1d967057",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi19.webp?alt=media&token=4c554e47-9ef4-480e-92cd-3745ab6dc2e7",
+          "emojis": [":)"]
+        },
+		{
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi20.webp?alt=media&token=aa371d92-d815-4961-be75-fba78fae5ce9",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi21.webp?alt=media&token=698a614b-9e04-419f-9611-b43ebc6d5713",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi22.webp?alt=media&token=a47a5b29-931a-4347-a880-902ae68016ae",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi23.webp?alt=media&token=f7a5e121-066d-4006-96e0-9cc72aef89f3",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi24.webp?alt=media&token=b04d444f-e575-4089-b274-2622d3dc8bc1",
+          "emojis": [":)"]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Frakhi%2Frakhi25.webp?alt=media&token=af09912d-2efe-4316-90ed-108206b6583d",
+          "emojis": [":)"]
+        }
+      ]
+    },{
     "dialog": "cat nibbi nibba",
     "identifier": "cat",
     "name": "Cat Nibbi Nibba",

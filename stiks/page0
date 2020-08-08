@@ -1,5 +1,137 @@
 [
 {
+    "dialog": "color photo suhas chandini chandhini",
+    "identifier": "colorphoto",
+    "name": "Color Photo",
+    "publisher": "stickers Raja",
+    "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2Fcolorphoto.png?alt=media&token=4f0b73ae-a40d-472c-aa66-785853542d89",
+    "publisher_email": "stickersraja@gmail.com",
+    "publisher_website": "",
+    "privacy_policy_website": "",
+    "license_agreement_website": "",
+    "stickers": [
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F1.webp?alt=media&token=6298ea96-bccf-4198-ba9f-0131e6a55d2f",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F2.webp?alt=media&token=66b2d8cf-57b3-4020-a338-4fec79f80c18",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F3.webp?alt=media&token=0dcaf261-d60a-4c6d-928b-8b0f8b9b0e77",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F4.webp?alt=media&token=03aea7e7-dc00-4730-8082-5cac58a28320",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F5.webp?alt=media&token=ae715cf8-a8f9-4299-bc5b-d43178a0cd52",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F6.webp?alt=media&token=5b9f7249-c7fc-4596-bed2-07d98a7ad546",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F7.webp?alt=media&token=24355376-9ae5-4a2b-8c0c-5ffdfb13c082",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F8.webp?alt=media&token=3f579446-f290-44e6-a1e1-604dc15602a8",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F9.webp?alt=media&token=438b3b94-3bd7-4005-a878-6df8baf8ea4b",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F10.webp?alt=media&token=f8cdbab0-0a42-4a70-94d1-f1f09c906a24",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F11.webp?alt=media&token=ee8b1f92-f0db-4d67-a3a1-e3cbaa882283",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F12.webp?alt=media&token=91b5acb2-d7d7-45e9-8dd9-91f40a05b62e",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F13.webp?alt=media&token=a40e82f0-c183-4474-a648-4f8fc3d90da7",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F14.webp?alt=media&token=8f7a7dd0-21e2-45da-ac57-f7eabd64f27e",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F15.webp?alt=media&token=778a5859-eab6-44c9-8ff4-a220e1df3474",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F16.webp?alt=media&token=2f8aa60c-6573-47cf-9c08-ff51b34afabe",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F17.webp?alt=media&token=49dd7edf-55b9-4591-92d6-17a29ec18ad1",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F18.webp?alt=media&token=91b1f989-7303-48f3-9405-a8a36f46b1dd",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F19.webp?alt=media&token=cd723b57-64b8-4e28-919b-05bdfc14e937",
+        "emojis": [
+          ":)"
+        ]
+      },
+      {
+        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fcolorphoto%2F20.webp?alt=media&token=60c871e6-0f02-418a-a59b-e2a6540d323d",
+        "emojis": [
+          ":)"
+        ]
+      }
+    ]
+  },{
      "dialog": "malleswari malliswari malleshwari",
       "identifier": "malliswari",
       "name": "Malliswari",

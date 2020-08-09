@@ -1,0 +1,126 @@
+{
+  "RECIPE_APP": {
+    "featured_recipe": [
+      {
+        "id": "12",
+        "cat_id": "3",
+        "sub_cat_id": "8",
+        "recipe_type": "image",
+        "recipe_name": "Crispy Chocolate Balls",
+        "recipe_time": "25 mins",
+        "recipe_ingredients": "<ol>\r\n\t<li>3/4 cup crushed marie biscuits,</li>\r\n\t<li>1 cup puffed rice (kurmura),</li>\r\n\t<li>1/3 cup desiccated coconut,</li>\r\n\t<li>250 gms chopped milk chocolate,</li>\r\n\t<li>1 tbsp oil,</li>\r\n\t<li>3 tbsp pineapple jam,</li>\r\n\t<li>1/2 cup coloured chocolate&nbsp;</li>\r\n</ol>\r\n",
+        "recipe_direction": "<ol>\r\n\t<li>Combine the biscuit and puffed rice in a broad non-stick pan and cook on a medium flame for 2 to 3 minutes, while stirring continuously.</li>\r\n\t<li>Remove from the flame and put into a mixing bowl and make a depression in the centre. Cool completely.</li>\r\n\t<li>Heat a small non stick pan and melt the jam on a slow flame for 1 minute. Cool completely.</li>\r\n\t<li>Place the milk chocolate in a bowl and place the bowl on top of a double boiler, taking care to see that the base of the bowl is not in contact with the warm water in the double boiler.</li>\r\n\t<li>Cook, while stirring continuously, till the chocolate melts completely and resembles a smooth sauce.</li>\r\n\t<li>Remove from the double boiler and keep stirring till it cools but is not set. Add the oil and mix well till smooth.</li>\r\n\t<li>Pour this melted chocolate and jam in the depression of the puffed rice-biscuit mixture and mix thoroughly.</li>\r\n\t<li>Divide the mixture into 30 equal portions and shape them into round balls.</li>\r\n\t<li>Roll each ball in chocolate vermicelli till it is evenly coated from all the sides.</li>\r\n\t<li>Place into individual paper cups and keep aside to set for at least an hour at room temperature.</li>\r\n\t<li>Serve immediately.</li>\r\n</ol>\r\n\r\n<p><img alt=\"\" src=\"https://uprootkitchen.com/wp-content/uploads/2016/03/Crispy-Chocolate-Peanut-Butter-Balls-uprootkitchen.com_.jpg\" style=\"height:250px; width:400px\" /></p>\r\n",
+        "recipe_image_b": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/66549_chocolate-truffles_1a.jpg",
+        "recipe_image_s": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/66549_chocolate-truffles_1a.jpg&size=300x300",
+        "video_url": "",
+        "video_id": "",
+        "recipe_views": "2827",
+        "rate_avg": "4.0",
+        "total_rate": "27",
+        "cid": "3",
+        "category_name": "Breakfast",
+        "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/55456_36373_Breakfast.jpg",
+        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/55456_36373_Breakfast.jpg&size=300x300"
+      }
+    ],
+    "category_list": [
+      {
+        "cid": "5",
+        "category_name": "Salad",
+        "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/12482_14682_salad.jpg",
+        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/12482_14682_salad.jpg&size=300x300"
+      },
+      {
+        "cid": "4",
+        "category_name": "Healthy",
+        "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/53537_32058_Healthy.jpg",
+        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/53537_32058_Healthy.jpg&size=300x300"
+      },
+      {
+        "cid": "2",
+        "category_name": "Desserts",
+        "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/49420_64123_dessert-minis.jpg",
+        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/49420_64123_dessert-minis.jpg&size=300x300"
+      },
+      {
+        "cid": "3",
+        "category_name": "Breakfast",
+        "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/55456_36373_Breakfast.jpg",
+        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/55456_36373_Breakfast.jpg&size=300x300"
+      },
+      {
+        "cid": "1",
+        "category_name": "Appetizer",
+        "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/42379_78439_Appetizer.jpg",
+        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/42379_78439_Appetizer.jpg&size=300x300"
+      }
+    ],
+    "latest_recipe": [
+      {
+        "id": "17",
+        "cat_id": "1",
+        "sub_cat_id": "4",
+        "recipe_type": "image",
+        "recipe_name": "Cucumber Raita, Low Calorie Healthy Cooking",
+        "recipe_time": "6 mins",
+        "recipe_ingredients": "<ol>\r\n\t<li>1/2 cup roughly chopped strawberries,</li>\r\n\t<li>1/2 cup black grape halves,</li>\r\n\t<li>1 cup chilled low-fat curds (dahi),</li>\r\n\t<li>1/2 tsp cumin seeds (jeera) powder,</li>\r\n\t<li>1/2 tsp black salt (sanchal),</li>\r\n\t<li>salt to taste,</li>\r\n\t<li>1/2 cup roughly chopped strawberries,</li>\r\n\t<li>1/2 cup black grape halves,</li>\r\n\t<li>1 cup chilled low-fat curds (dahi),</li>\r\n\t<li>1/2 tsp cumin seeds (jeera) powder</li>\r\n</ol>\r\n",
+        "recipe_direction": "<p>* Combine the curds, green chilli paste and salt in a deep bowl and mix well using a whisk.</p>\r\n\r\n<p>*Add the cucumber, mix well and keep aside.</p>\r\n\r\n<ol>\r\n\t<li>Heat the oil in a small non-stick pan, add the cumin seeds and curry leaves and saut&eacute; on a medium flame for 30 seconds.</li>\r\n\t<li>Add the tempering to the curds-cucumber mixture and mix well.</li>\r\n\t<li>Refrigerate for at least 1 hour and serve chilled.</li>\r\n</ol>\r\n",
+        "recipe_image_b": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/11679_14682_salad.jpg",
+        "recipe_image_s": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/11679_14682_salad.jpg&size=300x300",
+        "video_url": "",
+        "video_id": "",
+        "recipe_views": "3184",
+        "rate_avg": "4.0",
+        "total_rate": "41",
+        "cid": "1",
+        "category_name": "Appetizer",
+        "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/42379_78439_Appetizer.jpg",
+        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/42379_78439_Appetizer.jpg&size=300x300"
+      },
+      {
+        "id": "15",
+        "cat_id": "2",
+        "sub_cat_id": "1",
+        "recipe_type": "image",
+        "recipe_name": "Cucumber Raita, Low Calorie Healthy Cooking",
+        "recipe_time": "6 mins",
+        "recipe_ingredients": "<p>2 cups iceberg lettuce leaves , torn into small pieces 1 cup roughly chopped ,tomatoes 1 cup roughly chopped cucumber ,1/2 cup quartered and blanched mushrooms (khumbh) ,1/2 cup capsicum cubes</p>\r\n",
+        "recipe_direction": "<ol>\r\n\t<li>Add this tempering to the prepared semolina batter and mix well.</li>\r\n\t<li>Just before steaming, add the fruit salt and mix gently.</li>\r\n\t<li>Pour 2 tbsp of the batter into each greased idli mould and steam in a steamer for 8 to 10 minutes.</li>\r\n\t<li>Cool slightly, demould and serve immediately with sambhar and coconut chutney.</li>\r\n</ol>\r\n",
+        "recipe_image_b": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/96163_75595_rayatu.jpg",
+        "recipe_image_s": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/96163_75595_rayatu.jpg&size=300x300",
+        "video_url": "",
+        "video_id": "",
+        "recipe_views": "1589",
+        "rate_avg": "4.0",
+        "total_rate": "18",
+        "cid": "2",
+        "category_name": "Desserts",
+        "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/49420_64123_dessert-minis.jpg",
+        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/49420_64123_dessert-minis.jpg&size=300x300"
+      }
+    ],
+    "most_view_recipe": [
+      {
+        "id": "17",
+        "cat_id": "1",
+        "sub_cat_id": "4",
+        "recipe_type": "image",
+        "recipe_name": "Cucumber Raita, Low Calorie Healthy Cooking",
+        "recipe_time": "6 mins",
+        "recipe_ingredients": "<ol>\r\n\t<li>1/2 cup roughly chopped strawberries,</li>\r\n\t<li>1/2 cup black grape halves,</li>\r\n\t<li>1 cup chilled low-fat curds (dahi),</li>\r\n\t<li>1/2 tsp cumin seeds (jeera) powder,</li>\r\n\t<li>1/2 tsp black salt (sanchal),</li>\r\n\t<li>salt to taste,</li>\r\n\t<li>1/2 cup roughly chopped strawberries,</li>\r\n\t<li>1/2 cup black grape halves,</li>\r\n\t<li>1 cup chilled low-fat curds (dahi),</li>\r\n\t<li>1/2 tsp cumin seeds (jeera) powder</li>\r\n</ol>\r\n",
+        "recipe_direction": "<p>* Combine the curds, green chilli paste and salt in a deep bowl and mix well using a whisk.</p>\r\n\r\n<p>*Add the cucumber, mix well and keep aside.</p>\r\n\r\n<ol>\r\n\t<li>Heat the oil in a small non-stick pan, add the cumin seeds and curry leaves and saut&eacute; on a medium flame for 30 seconds.</li>\r\n\t<li>Add the tempering to the curds-cucumber mixture and mix well.</li>\r\n\t<li>Refrigerate for at least 1 hour and serve chilled.</li>\r\n</ol>\r\n",
+        "recipe_image_b": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/11679_14682_salad.jpg",
+        "recipe_image_s": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/11679_14682_salad.jpg&size=300x300",
+        "video_url": "",
+        "video_id": "",
+        "recipe_views": "3184",
+        "rate_avg": "4.0",
+        "total_rate": "41",
+        "cid": "1",
+        "category_name": "Appetizer",
+        "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/42379_78439_Appetizer.jpg",
+        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/42379_78439_Appetizer.jpg&size=300x300"
+      }
+    ]
+  }
+}

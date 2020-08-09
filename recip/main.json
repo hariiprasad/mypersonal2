@@ -25,34 +25,39 @@
     ],
     "category_list": [
       {
-        "cid": "5",
-        "category_name": "Salad",
-        "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/12482_14682_salad.jpg",
-        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/12482_14682_salad.jpg&size=300x300"
-      },
-      {
-        "cid": "4",
-        "category_name": "Healthy",
-        "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/53537_32058_Healthy.jpg",
-        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/53537_32058_Healthy.jpg&size=300x300"
-      },
-      {
-        "cid": "2",
-        "category_name": "Desserts",
-        "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/49420_64123_dessert-minis.jpg",
-        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/49420_64123_dessert-minis.jpg&size=300x300"
+        "cid": "1",
+        "category_name": "Appetizer",
+        "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/42379_78439_Appetizer.jpg",
+        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/42379_78439_Appetizer.jpg&size=300x300",
+        "category_image_icon": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/73609_ic_5.png"
       },
       {
         "cid": "3",
         "category_name": "Breakfast",
         "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/55456_36373_Breakfast.jpg",
-        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/55456_36373_Breakfast.jpg&size=300x300"
+        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/55456_36373_Breakfast.jpg&size=300x300",
+        "category_image_icon": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/98516_ic_1.png"
       },
       {
-        "cid": "1",
-        "category_name": "Appetizer",
-        "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/42379_78439_Appetizer.jpg",
-        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/42379_78439_Appetizer.jpg&size=300x300"
+        "cid": "2",
+        "category_name": "Desserts",
+        "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/49420_64123_dessert-minis.jpg",
+        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/49420_64123_dessert-minis.jpg&size=300x300",
+        "category_image_icon": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/80926_ic_9.png"
+      },
+      {
+        "cid": "4",
+        "category_name": "Healthy",
+        "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/53537_32058_Healthy.jpg",
+        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/53537_32058_Healthy.jpg&size=300x300",
+        "category_image_icon": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/13878_ic_8.png"
+      },
+      {
+        "cid": "5",
+        "category_name": "Salad",
+        "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/12482_14682_salad.jpg",
+        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/12482_14682_salad.jpg&size=300x300",
+        "category_image_icon": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/21414_ic_3.png"
       }
     ],
     "latest_recipe": [
@@ -69,7 +74,7 @@
         "recipe_image_s": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/11679_14682_salad.jpg&size=300x300",
         "video_url": "",
         "video_id": "",
-        "recipe_views": "3184",
+        "recipe_views": "3189",
         "rate_avg": "4.0",
         "total_rate": "41",
         "cid": "1",
@@ -90,7 +95,7 @@
         "recipe_image_s": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/96163_75595_rayatu.jpg&size=300x300",
         "video_url": "",
         "video_id": "",
-        "recipe_views": "1589",
+        "recipe_views": "1591",
         "rate_avg": "4.0",
         "total_rate": "18",
         "cid": "2",
@@ -119,7 +124,10 @@
         "cid": "1",
         "category_name": "Appetizer",
         "category_image": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/42379_78439_Appetizer.jpg",
-        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/42379_78439_Appetizer.jpg&size=300x300"
+        "category_image_thumb": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/42379_78439_Appetizer.jpg&size=300x300",
+        "sub_cat_name": "Salad",
+        "sub_thumbnail_b": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/89871_img_2.jpg",
+        "sub_thumbnail_s": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/&size=300x300"
       }
     ]
   }

@@ -129,6 +129,22 @@
         "sub_thumbnail_b": "http://www.viaviweb.in/envato/cc/recipe_app_demo/images/89871_img_2.jpg",
         "sub_thumbnail_s": "http://www.viaviweb.in/envato/cc/recipe_app_demo/thumb.php?src=images/&size=300x300"
       }
-    ]
+    ],
+    "app_name": "Ruchi",
+    "app_version": "1.2",
+    "app_logo": "",
+    "app_contact": "123456",
+    "app_email": "admin@xyz.com",
+    "app_website": "",
+    "app_description": "ruchi telugu recipe app",
+    "app_privacy_policy": "",
+    "app_developed_by": "ruchi",
+    "app_tagline": "telugu vantakalu",
+    "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
+    "interstital_ad_id": "ca-app-pub-3940256099942544/1033173712",
+    "banner_ad": "true",
+    "interstital_ad": "true",
+    "publisher_id": "pub-8356404931736973",
+    "interstital_ad_click": "5"
   }
 }

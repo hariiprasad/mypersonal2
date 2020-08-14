@@ -1,25 +1,17 @@
 [
  {
-    "id": 3,
-    "title": "Moviemix Stickers Added Download Now",
-    "type": "3",
-    "pos" : 7,
-    "image": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/moviemixslide.jpeg",
-    "url": "https://instagram.com/stickersraja"
-  },{
-    "id": 1,
-    "title": "5 Star rating ivvandamma",
-    "type": "2",
-    "pos" : 9,
-    "image": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/rateadhurs.jpg",
-    "url": "https://play.google.com/store/apps/details?id=com.stickersrajatelugu.stickersrajatelugu"
-  },
-  {
     "id": 2,
     "title": "Instagram lo follow avvandi ra babu",
     "type": "2",
     "pos" : 2,
     "image": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/instafollowrao.jpeg",
     "url": "https://instagram.com/stickersraja"
+  }{
+    "id": 1,
+    "title": "5 Star rating ivvandamma",
+    "type": "2",
+    "pos" : 9,
+    "image": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/rateadhurs.jpg",
+    "url": "https://play.google.com/store/apps/details?id=com.stickersrajatelugu.stickersrajatelugu"
   }
 ]

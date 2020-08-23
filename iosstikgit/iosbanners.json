@@ -4,21 +4,21 @@
     "cat" : "sticker_packs",
     "decide" : "s",
     "image" : "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/stikbanners/enebanner.jpg",
-    "pos" : 1,
+    "pos" : 0,
     "title" : "ee nagarinki emaindi stickers Download Now",
     "url" : "https://www.instagram.com/stickersraja/"
   },{
     "cat" : "sticker_packs",
     "decide" : "yes",
     "image" : "https://raw.githubusercontent.com/hariiprasad/my-personal/master/raofollow.jpeg",
-    "pos" : 5,
+    "pos" : 1,
     "title" : "Follow Us in instagram",
     "url" : "https://www.instagram.com/stickersraja/"
   },{
     "cat" : "sticker_packs",
     "decide" : "s",
     "image" : "https://raw.githubusercontent.com/hariiprasad/my-personal/master/moviemixslide.jpeg",
-    "pos" : 12,
+    "pos" : 2,
     "title" : "Movie Mix Stickers Download Now",
     "url" : "https://play.google.com/store/apps/details?id=com.stickersrajalite.stickersrajalite&hl=en"
   }

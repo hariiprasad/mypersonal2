@@ -1,26 +1,28 @@
 {
-  "Item" : [ 
-  {
-    "cat" : "sticker_packs",
-    "decide" : "s",
-    "image" : "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/stikbanners/enebanner.jpg",
-    "pos" : 0,
-    "title" : "ee nagarinki emaindi stickers Download Now",
-    "url" : "https://www.instagram.com/stickersraja/"
-  },{
-    "cat" : "sticker_packs",
-    "decide" : "yes",
-    "image" : "https://raw.githubusercontent.com/hariiprasad/my-personal/master/raofollow.jpeg",
-    "pos" : 1,
-    "title" : "Follow Us in instagram",
-    "url" : "https://www.instagram.com/stickersraja/"
-  },{
-    "cat" : "sticker_packs",
-    "decide" : "s",
-    "image" : "https://raw.githubusercontent.com/hariiprasad/my-personal/master/moviemixslide.jpeg",
-    "pos" : 2,
-    "title" : "Movie Mix Stickers Download Now",
-    "url" : "https://play.google.com/store/apps/details?id=com.stickersrajalite.stickersrajalite&hl=en"
-  }
+  "Item": [
+    {
+      "cat": "sticker_packs",
+      "decide": "s",
+      "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/iosstikgit/pokiri.jpg",
+      "pos": 1,
+      "title": "pokiri stickers added",
+      "url": "https://www.instagram.com/stickersraja/"
+    },
+    {
+      "cat": "sticker_packs",
+      "decide": "s",
+      "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/iosstikgit/svsc.jpg",
+      "pos": 2,
+      "title": "svsc stickers added",
+      "url": "https://www.instagram.com/stickersraja/"
+    },
+    {
+      "cat": "sticker_packs",
+      "decide": "s",
+      "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/iosstikgit/raviteja.jpg",
+      "pos": 0,
+      "title": "raviteja stickers added",
+      "url": "https://play.google.com/store/apps/details?id=com.stickersrajalite.stickersrajalite&hl=en"
+    }
   ]
 }

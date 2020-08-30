@@ -1,5 +1,167 @@
 [
   {
+      "dialog": "buddodutelugu buddodu kid బుడ్డోడు",
+      "identifier": "buddodutelugu",
+      "name": "బుడ్డోడు",
+      "publisher": "stickers Raja",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2Fbuddodu.png?alt=media&token=02a10398-ff4c-48d4-b79b-a1d28abf6264",
+      "publisher_email": "stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F1.webp?alt=media&token=8e40eb97-de92-49a9-8df3-6e48737b50a3",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F2.webp?alt=media&token=94055b88-5607-4c5c-95af-4b7f092b313c",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F3.webp?alt=media&token=1fdd8d39-81fc-49e5-a33a-8fcbbebc513d",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F4.webp?alt=media&token=dc090105-4e4c-424a-b63d-eb93672c1978",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F5.webp?alt=media&token=4ec2d0cd-8562-44a5-9dc7-f0ce368bd875",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F6.webp?alt=media&token=21b696ca-df55-4ca3-a4d3-1763e5f6bb5a",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F7.webp?alt=media&token=8ec90cf6-2bba-4f64-a858-ae3329749bdd",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F8.webp?alt=media&token=9cc8a992-34a9-4eb6-a5c1-ff167aba50a8",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F9.webp?alt=media&token=37c38262-5d0f-4de1-a91c-fa596fb23674",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F10.webp?alt=media&token=6862f7ee-8c3d-4b01-92ca-918589d3d06f",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F11.webp?alt=media&token=be87c5d7-d430-4340-8d6a-da5d1cc57d49",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F12.webp?alt=media&token=9e1cc462-66d6-4ea0-81d0-048604c049fa",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F13.webp?alt=media&token=09ee411c-9973-43cb-9343-bfdcea0da526",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F14.webp?alt=media&token=35a886ec-9ed3-4bce-b074-325daea688a8",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F15.webp?alt=media&token=65d4fa90-d2a3-4070-b944-29c7a3413587",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F16.webp?alt=media&token=ac00074d-d0ce-4c58-90ef-426114014695",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F17.webp?alt=media&token=6ae3a4d5-165b-4c15-a4ce-254927cb9f34",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F18.webp?alt=media&token=2f6518e3-a5cf-47b8-92be-37aaecc87aa9",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F19.webp?alt=media&token=c38f1e48-7c68-4bd5-a9b4-1dce6cd166dc",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F20.webp?alt=media&token=f8af1752-2c15-46ec-b1c6-669c82e4b4ee",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F21.webp?alt=media&token=f68088b6-8bba-46d3-bfc1-107d32c531d8",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F22.webp?alt=media&token=3289c8f1-79de-4484-a840-f713dd203cef",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F23.webp?alt=media&token=a09a371b-1e07-4285-93b3-d329e62c6121",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F24.webp?alt=media&token=5a077b1e-ef95-40db-871f-5d9b1a7654fc",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbuddodu%2F25.webp?alt=media&token=838e460e-689c-4a8c-a703-e9942f13f67e",
+          "emojis": [
+            ":)"
+          ]
+        }
+      ]
+    },{
     "dialog": "పృథ్వి రాజ్  pruthvi raj prudhvi raj",
       "identifier": "prudhvirajtelugu",
       "name": "పృథ్వి రాజ్ ",

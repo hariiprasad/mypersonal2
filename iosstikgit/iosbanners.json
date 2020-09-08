@@ -2,10 +2,10 @@
   "Item": [
     {
       "cat": "sticker_packs",
-      "decide": "no",
-      "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/iosstikgit/raviteja.jpg",
+      "decide": "yes",
+      "image": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/rateadhurs.jpg",
       "pos": 0,
-      "title": "Raviteja Stickers Added",
+      "title": "Please Rate Us",
       "url": "https://www.instagram.com/stickersraja/"
     }
   ]

@@ -1,5 +1,89 @@
 [
   {
+    "dialog": "bharat ane nenu",
+    "identifier": "ban",
+    "license_agreement_website": " ",
+    "name": "bharat ane nenu",
+    "privacy_policy_website": " ",
+    "publisher": "Stickers Raja",
+    "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/bharathanenenu/ban.png",
+    "publisher_email": "stickersraja@gmail.com",
+    "publisher_website": " ",
+    "stickers": [
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/bharathanenenu/1.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/bharathanenenu/2.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/bharathanenenu/3.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/bharathanenenu/4.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/bharathanenenu/5.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/bharathanenenu/6.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/bharathanenenu/7.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/bharathanenenu/8.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/bharathanenenu/9.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/bharathanenenu/10.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/bharathanenenu/11.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/gitstiks/bharathanenenu/12.webp",
+        "emojis": [
+          ":-D"
+        ]
+      }
+    ]
+  },{
     "dialog": "Carry minati",
     "identifier": "carry",
     "license_agreement_website": " ",

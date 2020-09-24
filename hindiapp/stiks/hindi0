@@ -1,35 +1,5 @@
 [
 {
-"dialog":"test",
-"identifier":"test1",
-"license_agreement_website":" ",
-"name":"testanim",
-"privacy_policy_website":" ",
-"publisher":"Stickers Raja",
-"tray_image_file":"https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/hindiapp/packs/3idiots/3idiots.png",
-"publisher_email":"stickersraja@gmail.com",
-"publisher_website":" ",
-"stickers":[
-{
-"image_file":"https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/Brahmi/1.webp",
-"emojis":[
-":-D"
-]
-},
-{
-"image_file":"https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/Brahmi/1.webp",
-"emojis":[
-":-D"
-]
-},
-{
-"image_file":"https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/Brahmi/1.webp",
-"emojis":[
-":-D"
-]
-}
-]
-},{
       "dialog": "3 idiots",
       "identifier": "3idiots",
       "name": "3 idiots",

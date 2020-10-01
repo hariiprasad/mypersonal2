@@ -1,101 +1,101 @@
 [
   {
-    "dialog": "cricket random 2",
-    "identifier": "cricrandom2",
-    "name": "Cricket Random 2",
-    "publisher": "cricket stickers",
-    "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Fcricketrandom2%2Fcricketrandom2.png?alt=media&token=087fdae2-b566-4908-ad89-37790d4b8a25",
-    "publisher_email": "stickersraja@gmail.com",
-    "publisher_website": "",
-    "privacy_policy_website": "",
-    "license_agreement_website": "",
-    "stickers": [
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Fcricketrandom2%2Fcricketrandom2_1.webp?alt=media&token=fc34e9aa-b2db-4bc0-bec8-7663a1f59160",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Fcricketrandom2%2Fcricketrandom2_2.webp?alt=media&token=662ca38c-cc14-46fe-a99d-283d6d112a66",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Fcricketrandom2%2Fcricketrandom2_3.webp?alt=media&token=8faee0aa-a41f-48ae-865e-7ff7780539bb",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Fcricketrandom2%2Fcricketrandom2_4.webp?alt=media&token=c8cf0e7e-7169-4d13-a670-eed81a0e4b8d",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Fcricketrandom2%2Fcricketrandom2_5.webp?alt=media&token=82cedd6d-79f5-4e19-a7a9-00d5e03bd504",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Fcricketrandom2%2Fcricketrandom2_6.webp?alt=media&token=ac29b5af-0b22-43d2-99e9-a1b414b76856",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Fcricketrandom2%2Fcricketrandom2_7.webp?alt=media&token=2e9a1583-63bf-41fe-b895-da1ad022792e",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Fcricketrandom2%2Fcricketrandom2_8.webp?alt=media&token=d6978c8d-d028-4ec9-978e-73d9e5af3457",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Fcricketrandom2%2Fcricketrandom2_9.webp?alt=media&token=b6267e62-b0e1-486e-a84b-a4edb1f87447",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Fcricketrandom2%2Fcricketrandom2_10.webp?alt=media&token=b74363b2-d423-4476-be3c-521dd005ab54",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Fcricketrandom2%2Fcricketrandom2_11.webp?alt=media&token=e1165d5b-05fa-4f81-a829-14eed0a0d419",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Fcricketrandom2%2Fcricketrandom2_12.webp?alt=media&token=14ae03b1-4012-46f3-9a0a-0600819c13ff",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Fcricketrandom2%2Fcricketrandom2_13.webp?alt=media&token=33ac72b6-88f4-4bd7-a7d3-0046b82cc5b9",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Fcricketrandom2%2Fcricketrandom2_14.webp?alt=media&token=73f5d482-b731-4574-b8f4-847ceca5edb1",
-        "emojis": [
-          ":)"
-        ]
-      }
-    ]
-  },
+"dialog":"Cricket Random 2",
+"identifier":"cricrandom2",
+"license_agreement_website":" ",
+"name":"Cricket Random 2",
+"privacy_policy_website":" ",
+"publisher":"Cricket stickers",
+"tray_image_file":"https://greedyx.com/stickers/cricketapp/cricrandom2/cricketrandom2.png",
+"publisher_email":"stickersraja@gmail.com",
+"publisher_website":" ",
+"stickers":[
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/cricrandom2/1.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/cricrandom2/2.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/cricrandom2/3.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/cricrandom2/4.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/cricrandom2/5.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/cricrandom2/6.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/cricrandom2/7.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/cricrandom2/8.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/cricrandom2/9.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/cricrandom2/10.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/cricrandom2/11.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/cricrandom2/12.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/cricrandom2/13.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/cricrandom2/14.webp",
+"emojis":[
+":-D"
+]
+}
+]
+},
   {
 "dialog":"Cricket Random 1",
 "identifier":"cricrandom1",

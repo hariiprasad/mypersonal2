@@ -735,182 +735,181 @@
 ]
 }
 ]
+},{
+"dialog":"RCB",
+"identifier":"rcbstickers",
+"license_agreement_website":" ",
+"name":"RCB",
+"privacy_policy_website":" ",
+"publisher":"Cricket stickers",
+"tray_image_file":"https://greedyx.com/stickers/cricketapp/rcb/rcb.png",
+"publisher_email":"stickersraja@gmail.com",
+"publisher_website":" ",
+"stickers":[
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/1.webp",
+"emojis":[
+":-D"
+]
 },
-  {
-    "dialog": "rcb ipl",
-    "identifier": "rcb",
-    "name": "RCB Stickers",
-    "publisher": "IPL Stickers",
-    "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Ftray%2Frcb.png?alt=media&token=9a5f193a-ba11-4b8b-9d31-48c115b9c59d",
-    "publisher_email": "stickersraja@gmail.com",
-    "publisher_website": "",
-    "privacy_policy_website": "",
-    "license_agreement_website": "",
-    "stickers": [
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb1.webp?alt=media&token=7257385a-09d0-4d48-87ca-12298fbb17ee",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb2.webp?alt=media&token=827a14e4-1375-4e82-9bc4-64015798eea7",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb3.webp?alt=media&token=2418bbc0-8286-48db-bef5-652cf670aa08",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb4.webp?alt=media&token=938d209c-7e8e-4a22-bed1-5c96c07a9e9e",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb5.webp?alt=media&token=816049fd-8823-4539-8274-9a6cf22de492",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb6.webp?alt=media&token=1e8df21d-6d11-42fb-9ce0-d13a366b3001",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb7.webp?alt=media&token=27e7f5ad-c4e4-4ddf-ab2c-1dbe1d3b9a56",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb8.webp?alt=media&token=2c33ce6d-3c59-40cc-8f5c-93929d33a5ad",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb9.webp?alt=media&token=cf68d73e-5872-48d8-aa54-b3f88c80cc84",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb10.webp?alt=media&token=c69c9766-543a-43a0-a1bd-d52d96f33b5f",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb11.webp?alt=media&token=82c04704-5ed6-4bdc-95ad-30b06c143ee0",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb12.webp?alt=media&token=81a94483-96e5-44b5-8a46-1f41fcdbfe2c",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb13.webp?alt=media&token=ecd4e2d3-6c6a-47bf-baf2-b9fb22eca772",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb14.webp?alt=media&token=bea82109-4e0b-4d2b-a411-78db7d4bb5c2",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb15.webp?alt=media&token=c9ff48b1-615c-47ba-a39a-a431c32a0e27",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb16.webp?alt=media&token=126a0a6c-f0a0-4067-ad30-f5a6e71f0880",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb17.webp?alt=media&token=476cba22-e540-4614-8953-854951bd364c",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb18.webp?alt=media&token=820b2108-6809-4e98-9c0a-06a8198e5786",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb19.webp?alt=media&token=b0ea5603-f5d4-4cd4-9710-d035f9d823a1",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb20.webp?alt=media&token=ec470f11-7f42-49af-9aeb-889a8db58496",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb21.webp?alt=media&token=1bcf561a-42be-4fda-8d1d-a791361e6f77",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb22.webp?alt=media&token=7f618653-a39e-48d3-95f5-f027af2e4449",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb23.webp?alt=media&token=3a6e7c7c-95f3-4d2d-861c-a1dbb23c39d3",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb24.webp?alt=media&token=e00cd362-adb2-4f4c-bee5-2c259fc2e2c5",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Frcb25.webp?alt=media&token=15bfc7d4-3a12-47a4-927b-e8e92e1906e8",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Fipl17.webp?alt=media&token=a09450df-bef4-4a8b-bf28-ca91ebdc4c1e",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/cricketstickers-8e80f.appspot.com/o/stickers%2Frcb%2Fipl18.webp?alt=media&token=a6860c3a-2397-480c-af2a-47886201c597",
-        "emojis": [
-          ":)"
-        ]
-      }
-    ]
-  },
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/2.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/3.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/4.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/5.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/6.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/7.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/8.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/9.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/10.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/11.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/12.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/13.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/14.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/15.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/16.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/17.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/18.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/19.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/20.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/21.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/22.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/23.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/24.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/25.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/26.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/cricketapp/rcb/27.webp",
+"emojis":[
+":-D"
+]
+}
+]
+},
   {
     "dialog": "punjab ipl kxip kings eleven",
     "identifier": "punjab",

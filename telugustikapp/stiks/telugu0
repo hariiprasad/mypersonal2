@@ -102,6 +102,108 @@
         }
       ]
     },{
+	"dialog":"రగడ ragada",
+      "identifier": "ragadatelugu",
+      "name": "రగడ ",
+      "publisher": "stickers Raja",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2Fragada.png?alt=media&token=63b62d56-6307-4cc7-af7f-b6879cc4b101",
+      "publisher_email": "stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2Ftelugu1.webp?alt=media&token=18e7d5cf-dc43-43a3-83ed-f9ef605369fa",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2Ftelugu2.webp?alt=media&token=1684c6f5-1574-41c8-902c-f26cd7ba8fd7",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2Ftelugu3.webp?alt=media&token=1d631ca8-cf2d-4fbf-b496-3547449a2527",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2Ftelugu4.webp?alt=media&token=ba246133-6f2d-4a32-a193-dd42bea76305",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2Ftelugu5.webp?alt=media&token=d69043fb-ed8d-4364-8c0a-144635504195",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2Ftelugu6.webp?alt=media&token=3e123be5-a6ba-4b1b-b8e9-75e26368d3ab",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2Ftelugu7.webp?alt=media&token=8e365aac-b4f3-4f3e-a7bd-c27a33410537",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2Ftelugu8.webp?alt=media&token=bc18846c-4e12-4e8e-9cf3-9b44da4a93c8",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2Ftelugu9.webp?alt=media&token=a7f05ed1-345d-41dd-bcc6-e889bc481809",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2Ftelugu10.webp?alt=media&token=18bba80a-f73e-4a5a-8ba2-cfaed98c91fb",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2Ftelugu11.webp?alt=media&token=147ee96d-4202-4bf1-8e59-ff17801a2c23",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2Ftelugu12.webp?alt=media&token=08ad47db-1701-46b8-bf2f-d670257bee4d",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2Ftelugu13.webp?alt=media&token=cfab7ea5-8d33-41f9-bc9a-392c9506ae51",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2Ftelugu14.webp?alt=media&token=135cb11f-e451-4de8-a46f-289bae893957",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2Ftelugu15.webp?alt=media&token=d4650624-e7c3-43ed-b537-be11172dc353",
+          "emojis": [
+            ":)"
+          ]
+        }
+      ]
+    },{
     "dialog": "nuvve nuvve నువ్వే నువ్వే",
     "identifier": "nuvvenuvvetelugu",
     "name": "నువ్వే నువ్వే ",

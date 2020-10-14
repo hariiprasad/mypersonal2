@@ -1,5 +1,107 @@
 [
   {
+	"dialog":"ragada",
+      "identifier": "ragada",
+      "name": "Ragada",
+      "publisher": "stickers Raja",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2Fragada.png?alt=media&token=63b62d56-6307-4cc7-af7f-b6879cc4b101",
+      "publisher_email": "stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2F1.webp?alt=media&token=1fb6bb7e-e7ec-4ec4-b0ad-e781249fbede",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2F2.webp?alt=media&token=786b1498-2e14-4afe-afa6-9f1bfc7ed401",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2F3.webp?alt=media&token=77f28561-a203-42dd-8d7a-ba7925dfda02",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2F4.webp?alt=media&token=e71c871d-6851-4d89-b7ed-6bc802658abe",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2F5.webp?alt=media&token=8e89edc2-6a9b-4f63-997f-3d95c009917a",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2F6.webp?alt=media&token=57b32dfc-8f65-47fa-92e8-4a95ed5a85c2",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2F7.webp?alt=media&token=c5aea3da-34fa-4cc3-aa41-d5574dae2a39",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2F8.webp?alt=media&token=96133e82-5329-4928-b946-4c85cdad8cfa",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2F9.webp?alt=media&token=025bc5c3-c87f-45a1-816b-e8e9193e99cc",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2F10.webp?alt=media&token=931b27bb-2c88-4551-945b-071de43689fa",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2F11.webp?alt=media&token=6c7c03fc-a90a-431d-a1e3-3601e4a4a4a0",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2F12.webp?alt=media&token=a3b1c1f9-45c9-4ae7-8c17-96a985bbed3a",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2F13.webp?alt=media&token=c7c7b3b3-4f96-4386-a829-34cc6b2427eb",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2F14.webp?alt=media&token=2e7c3dd7-cd1a-41b6-8e10-d8a099960136",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fragada%2F15.webp?alt=media&token=a51c9344-9d31-44ed-9c20-f77f8c0b0098",
+          "emojis": [
+            ":)"
+          ]
+        }
+      ]
+    },{
 	"dialog":"nuvve nuvve tharun sunil",
       "identifier": "nuvvenuvve",
       "name": "Nuvve Nuvve",

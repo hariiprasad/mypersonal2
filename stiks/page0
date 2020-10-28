@@ -1,5 +1,185 @@
 [
   {
+	"dialog":"ipl ",
+      "identifier": "iplfunny3",
+      "name": "IPL Funny 3",
+      "publisher": "stickers Raja",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Fipl.png?alt=media&token=4aec4003-f761-493e-acf0-14452ce39004",
+      "publisher_email": "stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F1.webp?alt=media&token=c9b5d663-d628-4315-be9a-f2424556e79c",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F2.webp?alt=media&token=53806e60-d189-4bad-b801-a1b724895401",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F3.webp?alt=media&token=890275a8-996e-4811-8f58-ae373c1fd408",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F4.webp?alt=media&token=4761cb17-1047-4b6e-8643-97022f605879",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F5.webp?alt=media&token=556c359e-9b72-41f7-bbc2-104cb7e49031",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F6.webp?alt=media&token=9ff42da8-004f-4dc4-8abd-e68752ecdb0e",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F7.webp?alt=media&token=b30cff23-b98e-445b-9664-5c9ac1d3b8e2",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F8.webp?alt=media&token=6bf5e58d-aa67-4fed-9bd6-9490215a733f",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F9.webp?alt=media&token=09e829df-58d8-49af-afef-4c0b2d68c674",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F10.webp?alt=media&token=9c732649-ae80-4e80-924a-2066eab12c43",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F11.webp?alt=media&token=6da14b69-5ad8-4a2e-97cc-452271d9ced4",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F12.webp?alt=media&token=009f94ad-0451-4d80-8aab-8419b57493ef",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F13.webp?alt=media&token=e528a083-f61e-4d85-b41c-724f880ba263",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F14.webp?alt=media&token=626a8017-0a6f-46ab-9871-795860d2845f",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F15.webp?alt=media&token=870bc717-b1e8-4ea4-8538-f14e299324d7",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F16.webp?alt=media&token=488a921f-3a14-4657-a806-578b7ecdcf0c",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F17.webp?alt=media&token=45991d6d-5ffc-4c7a-88db-0d23e7a5ae4d",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F18.webp?alt=media&token=7cb4a10e-b548-4334-b7ae-fdb995bcd903",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F19.webp?alt=media&token=0a9a2571-34d9-4ed0-90a5-e4dcba7f542b",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F20.webp?alt=media&token=db26e5bb-1494-4e86-8cec-c110c9a5fa20",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F21.webp?alt=media&token=1d8ad043-13c9-46f9-a5a5-56baa43515b6",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F22.webp?alt=media&token=b524368c-011e-4b46-a208-af760f4891ae",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F23.webp?alt=media&token=cfcbc299-cedb-4f30-a9b9-babb14f29e61",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F24.webp?alt=media&token=06751609-a890-426c-99cf-21734adddfd1",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F25.webp?alt=media&token=f3f6802a-bbca-4f42-8b09-7e111ab444a7",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F26.webp?alt=media&token=b1f9d7b5-85fe-486a-b8ca-ac698da35263",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F27.webp?alt=media&token=127aaa78-cd62-4cd2-bffb-83ce2fefde08",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2F28.webp?alt=media&token=027c2a98-fa78-4ccd-bd0c-d6e1c20ec8db",
+          "emojis": [
+            ":)"
+          ]
+        }
+      ]
+    },{
       "identifier": "tomandjerry2",
       "name": "Tom and Jerry 2",
       "publisher": "stickers Raja",

@@ -1,15 +1,9 @@
 [
  {
     "id": 1,
-    "title": "5 star rating ivvalamma",
-    "type": "2",
-    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/shop/ratebrahminvnv.jpg",
-    "url": "https://play.google.com/store/apps/details?id=com.stickersrajatelugu.stickersrajatelugu"
-  },{
-    "id": 2,
-    "title": "Instagram lo follow avvandi ra babu",
-    "type": "2",
-    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/shop/instaraofollow.jpg",
-    "url": "https://instagram.com/stickersraja"
+    "title": "Shop Now at Stickers Raja",
+    "type": "1",
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/shop/shopnow.jpg",
+    "url": "https://www.stickersraja.com/"
   }
 ]

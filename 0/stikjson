@@ -510,6 +510,7 @@
         }
       ]
     },{
+	"dialog":"Tom and Jerry 2",
       "identifier": "tomandjerry2",
       "name": "Tom and Jerry 2",
       "publisher": "stickers Raja",
@@ -701,6 +702,7 @@
         }
       ]
     },{
+	"dialog":"ipl funny",
       "identifier": "iplfunny2",
       "name": "IPL 2020 Funny 2",
       "publisher": "stickers Raja",

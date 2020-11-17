@@ -1,5 +1,107 @@
 [
   {
+	"dialog":"brahmi",
+      "identifier": "brahmiquotestelugu",
+      "name": "బ్రహ్మి కోట్స్ ",
+      "publisher": "stickers Raja",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Fquote.png?alt=media&token=e6b3dec7-a580-404b-9145-77b87db67d5c",
+      "publisher_email": "stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu1.webp?alt=media&token=bfbcd0b7-f6bd-482c-b346-4a62de2a48c7",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu2.webp?alt=media&token=c146e156-bf0a-4f04-920f-7082a93a1229",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu3.webp?alt=media&token=4c208056-8cae-4132-8a2d-8eb7678164b6",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu4.webp?alt=media&token=5da19e70-4512-4ec3-915b-b297cd25f8a5",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu5.webp?alt=media&token=f6298c15-720c-4d7b-9da9-654fb6166f57",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu6.webp?alt=media&token=485a8dda-5bb7-4a1e-8c8b-65eb8fdebdbf",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu7.webp?alt=media&token=e317d143-ba6f-4bea-88b3-c64c2d27d786",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu8.webp?alt=media&token=bd2f3020-6654-4418-8bb3-8988154a16de",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu9.webp?alt=media&token=af281335-7c0e-4472-bce4-1920a815da7e",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu10.webp?alt=media&token=cea6800a-2940-4fc7-b5fe-0b62c30293b2",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu11.webp?alt=media&token=315d3382-6898-463f-8586-01719ba3a0aa",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu12.webp?alt=media&token=f08d5633-e48e-4a8b-803e-1803c10d83ea",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu13.webp?alt=media&token=da887b95-77fb-4dcd-b9fe-06310acc0261",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu14.webp?alt=media&token=0ac30ed8-182d-4c03-8723-a895ded94e6f",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu15.webp?alt=media&token=038badf4-1aaf-46d2-9d40-0b2da888d628",
+          "emojis": [
+            ":)"
+          ]
+        }
+      ]
+    },{
     "dialog": "adavari matalaku ardhale verule ",
     "identifier": "amavtelugu",
     "name": "ఆడవారి మాటలకూ అర్ధాలే వేరులే",

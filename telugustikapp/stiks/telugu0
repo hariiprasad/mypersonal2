@@ -1,5 +1,107 @@
 [
   {
+	"dialog":"brahmi",
+      "identifier": "brahmiquotestelugu",
+      "name": "బ్రహ్మి కోట్స్ ",
+      "publisher": "stickers Raja",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Fquote.png?alt=media&token=e6b3dec7-a580-404b-9145-77b87db67d5c",
+      "publisher_email": "stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu1.webp?alt=media&token=bfbcd0b7-f6bd-482c-b346-4a62de2a48c7",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu2.webp?alt=media&token=c146e156-bf0a-4f04-920f-7082a93a1229",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu3.webp?alt=media&token=4c208056-8cae-4132-8a2d-8eb7678164b6",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu4.webp?alt=media&token=5da19e70-4512-4ec3-915b-b297cd25f8a5",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu5.webp?alt=media&token=f6298c15-720c-4d7b-9da9-654fb6166f57",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu6.webp?alt=media&token=485a8dda-5bb7-4a1e-8c8b-65eb8fdebdbf",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu7.webp?alt=media&token=e317d143-ba6f-4bea-88b3-c64c2d27d786",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu8.webp?alt=media&token=bd2f3020-6654-4418-8bb3-8988154a16de",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu9.webp?alt=media&token=af281335-7c0e-4472-bce4-1920a815da7e",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu10.webp?alt=media&token=cea6800a-2940-4fc7-b5fe-0b62c30293b2",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu11.webp?alt=media&token=315d3382-6898-463f-8586-01719ba3a0aa",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu12.webp?alt=media&token=f08d5633-e48e-4a8b-803e-1803c10d83ea",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu13.webp?alt=media&token=da887b95-77fb-4dcd-b9fe-06310acc0261",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu14.webp?alt=media&token=0ac30ed8-182d-4c03-8723-a895ded94e6f",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fbrahmiquotes%2Ftelugu15.webp?alt=media&token=038badf4-1aaf-46d2-9d40-0b2da888d628",
+          "emojis": [
+            ":)"
+          ]
+        }
+      ]
+    },{
     "dialog": "adavari matalaku ardhale verule ",
     "identifier": "amavtelugu",
     "name": "ఆడవారి మాటలకూ అర్ధాలే వేరులే",
@@ -314,181 +416,6 @@
     ]
   },
   {
-    "dialog": "ipl ",
-    "identifier": "iplfunny3telugu",
-    "name": "IPL ఫన్నీ 3",
-    "publisher": "stickers Raja",
-    "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Fipl.png?alt=media&token=4aec4003-f761-493e-acf0-14452ce39004",
-    "publisher_email": "stickersraja@gmail.com",
-    "publisher_website": "",
-    "privacy_policy_website": "",
-    "license_agreement_website": "",
-    "stickers": [
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu1.webp?alt=media&token=fb89d498-8dbe-42fa-bb4c-14e56c4615c3",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu2.webp?alt=media&token=6e6100af-5886-4a69-9474-473706f0bb5a",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu3.webp?alt=media&token=9399d2e5-c1e8-4ebe-9cf1-8f66f5b7a0e2",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu4.webp?alt=media&token=0514a97d-9f50-4c58-bc8b-e9120a315f3c",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu5.webp?alt=media&token=84775034-398c-4bcc-9555-df33ff755c15",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu6.webp?alt=media&token=4b62a4c5-af61-45c8-a713-b7a75b84a4f6",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu7.webp?alt=media&token=fd396942-7ddb-470b-9e40-b92dce4efbe6",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu8.webp?alt=media&token=b554d156-ce4c-4d6c-9131-27753cfd88b1",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu9.webp?alt=media&token=795f0b1a-872b-4062-bdaf-e9d231f08492",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu10.webp?alt=media&token=17fcac27-2a1c-4aaf-99e3-dc949eb15eb6",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu11.webp?alt=media&token=d398f9b1-3b64-4faf-a7d1-fac6fc82c884",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu12.webp?alt=media&token=d658df30-55d5-4d11-aa16-4189a5c21283",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu13.webp?alt=media&token=68071e53-9a1e-4305-8090-04c219dae2c6",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu14.webp?alt=media&token=356b8d0c-e11f-4995-b00c-d2d87fa66a32",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu15.webp?alt=media&token=17dd1db4-460c-44e9-8407-6c8d47161087",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu16.webp?alt=media&token=75b80fab-faf0-45cc-b7de-ca90140fd608",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu17.webp?alt=media&token=5109c796-93ad-4d82-aac0-ecd5ea86d29a",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu18.webp?alt=media&token=765be9ce-da9d-40f5-96fc-bfe131778e53",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu19.webp?alt=media&token=49d917e0-bc95-444a-8dfe-8f8bbe51f364",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu20.webp?alt=media&token=60ad005f-7089-40a7-bdb9-7ceab817a9d3",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu21.webp?alt=media&token=1685858b-2bcd-46f2-b5a7-cf7bc7912189",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu22.webp?alt=media&token=7616e65c-ffbf-4804-a480-bea24c25caa5",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu23.webp?alt=media&token=bd48ff7f-ecd3-4063-b44f-1d9d1f0e6a4d",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu24.webp?alt=media&token=e7532239-1e03-4d46-be29-4a09811f0ad6",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu25.webp?alt=media&token=5035bca7-4655-426a-8ad3-e7afcd814937",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu26.webp?alt=media&token=1eff1768-6f90-42af-a945-437bb8f3aded",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny3%2Ftelugu27.webp?alt=media&token=e9a1f401-a1d4-47c5-a70d-0395656f030d",
-        "emojis": [
-          ":)"
-        ]
-      }
-    ]
-  },
-  {
     "dialog": "Tom and Jerry",
     "identifier": "tomandjerry2telugu",
     "name": "Tom and Jerry 2",
@@ -675,199 +602,6 @@
       },
       {
         "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftomandjerry2%2F30.webp?alt=media&token=3166ac4c-f28d-44be-a20f-56847103ccf2",
-        "emojis": [
-          ":)"
-        ]
-      }
-    ]
-  },
-  {
-    "dialog": "ipl",
-    "identifier": "iplfunny2telugu",
-    "name": "IPL 2020 ఫన్నీ 2",
-    "publisher": "stickers Raja",
-    "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunny2.png?alt=media&token=bb97cce0-830e-4ca5-9237-52389b6f0cfd",
-    "publisher_email": "stickersraja@gmail.com",
-    "publisher_website": "",
-    "privacy_policy_website": "",
-    "license_agreement_website": "",
-    "stickers": [
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F1.webp?alt=media&token=35ccb7c4-ecd2-46b8-b7d4-a04f369f59fa",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F2.webp?alt=media&token=e883b6af-2133-4bd8-8c36-48a3d91e898c",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F3.webp?alt=media&token=3557eb78-7494-42e9-9b8b-6d19b58d8a11",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F4.webp?alt=media&token=efe18df2-90bc-44e3-a6d5-ee35888e9848",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F5.webp?alt=media&token=ff508325-c176-4bda-8653-e31c94609664",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F6.webp?alt=media&token=dd95916a-2c5c-4ff4-b32c-9eb2f4e127e9",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F7.webp?alt=media&token=c1fd5b9c-8b98-4767-b151-040977b2d987",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F8.webp?alt=media&token=0868f52d-6a1d-4545-b6fa-cf50ffbdf166",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F9.webp?alt=media&token=46742c4a-f156-49a3-8f3d-18fc1bb3fba8",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F10.webp?alt=media&token=b7f0b281-c583-45ca-9a40-b472f979549e",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F11.webp?alt=media&token=9e73139a-7066-4554-b69c-e6682cb099e0",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F12.webp?alt=media&token=ac06f2b4-1323-4272-bfe0-a497559126aa",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F13.webp?alt=media&token=4cfb23e0-615d-4481-a880-a3e602961d80",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F14.webp?alt=media&token=40e658f3-213e-491e-9d8d-bf1267b9c0e7",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F15.webp?alt=media&token=08bcb2f4-701e-4f2e-9a73-f941aa605577",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F16.webp?alt=media&token=07a4eaff-f96c-4d32-b4b1-c8a8df18beea",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F17.webp?alt=media&token=36f01497-d2f5-4dfc-9cce-e74359f013a7",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F18.webp?alt=media&token=3139cd09-38fa-487d-88a3-8d9e7440150f",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F19.webp?alt=media&token=99e709c4-06ec-41d9-8415-a31c11a10980",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F20.webp?alt=media&token=d613d27e-7866-4008-a914-6d74456f797c",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F21.webp?alt=media&token=e08992f0-920b-4422-bce6-5c8607fa9a43",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F22.webp?alt=media&token=2464c738-f3f7-4d38-813a-86fbb6c35508",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F23.webp?alt=media&token=40e630df-d3a5-4ca4-8f1a-5aaeb9ad22e6",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F24.webp?alt=media&token=eb34c10d-99bb-4cda-b314-5938fba7cf67",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F25.webp?alt=media&token=7f39440e-063d-4452-989e-8e163f251502",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F26.webp?alt=media&token=da5b9609-2108-48df-bf36-8b4c966c5827",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F27.webp?alt=media&token=27021cde-d204-4e5a-b8c0-38f5531a46da",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F28.webp?alt=media&token=4b362040-9920-4495-8694-e2a7e5fd281c",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F29.webp?alt=media&token=fbf07d54-95ee-4a88-bbcc-e41c69142df0",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny2%2Fiplfunnytelugu%2F30.webp?alt=media&token=fafcfc0d-d7b2-4f6c-9634-c6d69017ef28",
         "emojis": [
           ":)"
         ]
@@ -1406,199 +1140,6 @@
       },
       {
         "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fmoviemix11%2Ftelugu21.webp?alt=media&token=93e60f21-a38a-4ded-8f24-4df6b49c227e",
-        "emojis": [
-          ":)"
-        ]
-      }
-    ]
-  },
-  {
-    "dialog": "ipl Funny",
-    "identifier": "iplfunnytelugu",
-    "name": "IPL ఫన్నీ ",
-    "publisher": "stickers Raja",
-    "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu31.png?alt=media&token=7c47d5bd-0041-4700-a9a9-2055389709c7",
-    "publisher_email": "stickersraja@gmail.com",
-    "publisher_website": "",
-    "privacy_policy_website": "",
-    "license_agreement_website": "",
-    "stickers": [
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu1.webp?alt=media&token=ed19498b-8f6b-4583-b8d2-956f847e9bc3",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu2.webp?alt=media&token=3d005b2a-0375-4cee-a1dc-9541769cea89",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu3.webp?alt=media&token=2172b574-8e1f-4b1e-9350-2827a1c0c62b",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu4.webp?alt=media&token=a776300c-ef51-4c74-825c-79d22a221734",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu5.webp?alt=media&token=c506a0e9-fe2d-4b97-a531-81d98540192c",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu6.webp?alt=media&token=4c2c6b49-0324-4c77-912f-66263d097c5c",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu7.webp?alt=media&token=5aca08f7-06e7-4649-8937-1ec07b25b461",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu8.webp?alt=media&token=e2782962-4edf-4d74-bf84-8ce63b7e37e5",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu9.webp?alt=media&token=187172a0-a8dc-46ae-8ac2-57f522893ee0",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu10.webp?alt=media&token=93831eb7-ecb4-46f3-aa2a-4c486da56028",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu11.webp?alt=media&token=5f653099-5d11-45a3-839e-fe4580a8f5d3",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu12.webp?alt=media&token=6e9d697a-e943-4782-bad3-5d8dafd53df7",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu13.webp?alt=media&token=990cbb2a-2dce-40a0-a5f3-1130d88c4544",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu14.webp?alt=media&token=8314c61e-4b11-42d1-af27-59d9839bb255",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu15.webp?alt=media&token=df3c93da-b8fc-4a36-9b51-00010be4e97d",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu16.webp?alt=media&token=62459c6c-a45a-4209-b7f9-d2dd28f9b047",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu17.webp?alt=media&token=3ab9d037-173c-4d33-ab50-3b583aeabe60",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu18.webp?alt=media&token=464c8bf0-f052-44bc-a017-9716e9ec4bb7",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu19.webp?alt=media&token=8863398b-8a5e-4966-a721-314f250d6554",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu20.webp?alt=media&token=b74d30ba-f35b-4cd8-9fd6-8c80679bc4a5",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu21.webp?alt=media&token=e2d0990c-771e-4918-ae9d-af6bff2b639a",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu22.webp?alt=media&token=a7593d1f-1f9f-4cf9-9220-a9b2bf71455f",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu23.webp?alt=media&token=a0d9f4f8-0eeb-4ef0-8244-eef0a425b5fd",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu24.webp?alt=media&token=a608293f-75bc-4454-a3ed-76e1caca19ca",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu25.webp?alt=media&token=a987c7ce-be02-473b-a8ae-9319d1456a93",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu26.webp?alt=media&token=1e9e6fbf-087e-4371-9d7e-6eef0e6a9acd",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu27.webp?alt=media&token=4a85c3f8-cb71-40c8-926c-6d77aa18288d",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu28.webp?alt=media&token=3bb72437-7675-4273-b5e8-43bb4301a9c4",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu29.webp?alt=media&token=b0b993d1-0852-404a-8b79-1914d96319a5",
-        "emojis": [
-          ":)"
-        ]
-      },
-      {
-        "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fiplfunny%2Ftelugu30.webp?alt=media&token=419d06fe-83ee-4916-ba3b-b4a0c5f8e201",
         "emojis": [
           ":)"
         ]

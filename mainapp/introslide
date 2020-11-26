@@ -11,5 +11,12 @@
     "type": "1",
     "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/shop/shopnow.jpg",
     "url": "https://www.stickersraja.com/"
+  },{
+    "id": 1,
+    "title": "5 Star rating ivvandamma",
+    "type": "2",
+    "pos" : 9,
+    "image": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/rateadhurs.jpg",
+    "url": "https://play.google.com/store/apps/details?id=com.stickersrajatelugu.stickersrajatelugu"
   }
 ]

@@ -1,0 +1,16 @@
+[
+ {
+    "id": 1,
+    "title": "Can Update app Now",
+    "type": "2",
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/images/crashfixed.jpg",
+    "url": "https://play.google.com/store/apps/details?id=com.stickersrajatelugu.stickersrajatelugu"
+  },{
+    "id": 2,
+    "title": "5 Star rating ivvandamma",
+    "type": "2",
+    "pos" : 9,
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/images/venkateshratemin2.jpg",
+    "url": "https://play.google.com/store/apps/details?id=com.stickersrajatelugu.stickersrajatelugu"
+  }
+]

@@ -32,7 +32,7 @@
     },
     {
       "name": "ADMIN_INTERSTITIAL_TYPE",
-      "value": "ADMOB"
+      "value": "BOTH"
     },
     {
       "name": "ADMIN_INTERSTITIAL_CLICKS",
@@ -48,7 +48,7 @@
     },
     {
       "name": "ADMIN_BANNER_TYPE",
-      "value": "ADMOB"
+      "value": "BOTH"
     },
     {
       "name": "ADMIN_NATIVE_FACEBOOK_ID",
@@ -64,7 +64,7 @@
     },
     {
       "name": "ADMIN_NATIVE_TYPE",
-      "value": "ADMOB"
+      "value": "BOTH"
     },
     {
       "name": "EARNING_SYSTEM",

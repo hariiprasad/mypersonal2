@@ -1,5 +1,197 @@
 [
   {
+	"dialog":"Sye",
+      "identifier": "syetelugu",
+      "name": "సై స్టికెర్స్",
+      "publisher": "stickers Raja",
+      "tray_image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Fsye.png?alt=media&token=49dc431f-3e55-47a5-93be-fe129376a3f4",
+      "publisher_email": "stickersraja@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu1.webp?alt=media&token=fa979fae-b368-4283-8ec9-55531db42855",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu2.webp?alt=media&token=9e193d65-16ce-4c4b-8b4a-a094eef4df5a",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu3.webp?alt=media&token=733b6d48-a078-4f8e-96e5-bfc4b5ad3dec",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu4.webp?alt=media&token=00b3f61e-602a-4aa9-a94b-13516a2d2d55",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu5.webp?alt=media&token=980abeb5-e422-45e7-bb45-c8629875bee4",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu6.webp?alt=media&token=9afd5332-de52-4b32-9461-eff73c9af912",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu7.webp?alt=media&token=18f98ff4-21b2-470d-a8c7-00ff1a94bf70",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu8.webp?alt=media&token=d3e23f29-5257-4a51-90f0-2a65d860982f",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu9.webp?alt=media&token=8fc2c1e4-83f6-4389-8715-3cfd106197f5",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu10.webp?alt=media&token=9bd9908f-2947-443a-85b0-ada8593f6800",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu11.webp?alt=media&token=ee1bf0e1-7711-42e6-9d99-cb578cdc2d08",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu12.webp?alt=media&token=7c8485ea-6e0f-4d0c-aa81-dc0d8ff259db",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu13.webp?alt=media&token=e25a3520-5c15-4d99-8633-3f6146632fb1",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu14.webp?alt=media&token=8b9d3c9e-c17b-44ad-bda3-3f560e89ed16",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu15.webp?alt=media&token=adee0136-7e06-4421-bd39-795dc70312f0",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu16.webp?alt=media&token=18f4dd11-0a1f-49ae-867f-cec14177d8b9",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu17.webp?alt=media&token=f38842ea-13b0-4203-a3c1-0c1097c979cf",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu18.webp?alt=media&token=889ba865-0023-4b6b-8a45-b7a99b51927e",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu19.webp?alt=media&token=01df85cf-ee59-427d-93dd-d573fe4cac3b",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu20.webp?alt=media&token=00641f4a-1d3a-4ce8-a68c-fb34e88805a7",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu21.webp?alt=media&token=5655b914-1fd5-44d0-b563-92144cf79a0f",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu22.webp?alt=media&token=f791625f-26a1-4a7d-8e54-cf521b310a97",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu23.webp?alt=media&token=28ddd691-41d9-48a8-96b6-e90c1719943b",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu24.webp?alt=media&token=cdeb7722-d698-4a5b-ae12-82eb8a9d9085",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu25.webp?alt=media&token=e9789654-34dc-453c-b789-b37964a75e8b",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu26.webp?alt=media&token=d4acd9b7-32bc-432e-89d7-eae42a17f3ac",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu27.webp?alt=media&token=6991e9a5-ca15-4deb-9ea3-2887dee7c67d",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu28.webp?alt=media&token=57318164-381b-4130-a899-90c5476ce429",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu29.webp?alt=media&token=39cd6d65-8fab-4ef6-8a95-6f9249793cf9",
+          "emojis": [
+            ":)"
+          ]
+        },
+        {
+          "image_file": "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Fsye%2Ftelugu30.webp?alt=media&token=d70c0b94-ab16-4900-a7c3-ae9814b6f775",
+          "emojis": [
+            ":)"
+          ]
+        }
+      ]
+    },{
 	"dialog":"MIddle class memories",
       "identifier": "mcmtelugu",
       "name": "మిడిల్ క్లాస్ మెలోడీస్",

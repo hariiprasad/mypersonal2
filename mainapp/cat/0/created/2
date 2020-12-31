@@ -1,282 +1,527 @@
 [
 {
-    "dcount" : 1000,
-    "dialog" : " డైలీ విషెస్   ",
-    "identifier" : "telugutextwhises",
-    "license_agreement_website" : "",
-    "name" : " డైలీ విషెస్   ",
-    "privacy_policy_website" : "",
-    "publisher" : " స్టికెర్స్ రాజా ",
-    "publisher_email" : "stickersraja@gmail.com",
-    "publisher_website" : "",
-    "stickers" : [ {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fstickerstelugutext1.webp?alt=media&token=a61bc246-4e6e-47c2-9adf-5c92852ff15d"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext2.webp?alt=media&token=f458cdf0-3a39-4910-bb2c-59666d548218"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext3.webp?alt=media&token=b563d0ab-ec88-4f75-8d47-29f128e9a063"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext4.webp?alt=media&token=94ad3df4-7da3-4f76-85db-3d4157fd7595"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext5.webp?alt=media&token=9681d5d9-be73-4aba-b08d-7d28b0dff46b"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext6.webp?alt=media&token=7390c72a-0d63-4c56-84f4-722bfb5886f4"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext7.webp?alt=media&token=116cd907-e7a6-4134-91ba-7d165ad6471f"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext8.webp?alt=media&token=135c7eb3-1a98-41c2-bad9-0d16109de93b"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext9.webp?alt=media&token=272eea19-59cc-4e29-8701-c0cbc0b1128a"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext10.webp?alt=media&token=1cd91115-43d8-46c1-8211-d1c153fe9c35"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext11.webp?alt=media&token=26ad710f-c87a-44ed-aec6-f29a3b21d250"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext12.webp?alt=media&token=71781f49-2f42-4c5e-91af-40f7372e620e"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext13.webp?alt=media&token=50fa92de-7db9-4b43-a6fd-01f7bb454a50"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext14.webp?alt=media&token=a061449a-0129-4701-a4da-1ae4ce26fc0a"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext15.webp?alt=media&token=a881d4fe-977c-4264-8ed0-012d33f36f09"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext16.webp?alt=media&token=8c474be5-5f6b-4984-9058-ff3cb5fb00ff"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext17.webp?alt=media&token=77f02380-44b3-4e6a-9991-452d02469298"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext18.webp?alt=media&token=d77cb3b6-8936-4c9f-b003-de1b8f90a49c"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext19.webp?alt=media&token=13b0fde0-176d-49a7-a663-db6974a5cf53"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext20.webp?alt=media&token=d1328bfc-82dd-46e3-99c4-1791c63daa92"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutexttest%2Fwhisestelugutext21.webp?alt=media&token=5da80216-5f41-4cec-90da-f236bc646829"
-    } ],
-    "tray_image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftray_images%2Fstickerstelugutext.png?alt=media&token=49043c78-6b92-4c30-b24f-63f84197d98d"
-  }, {
-    "dcount" : 1000,
-    "dialog" : " ప్రశ్న సంభాషణలు    ",
-    "identifier" : "telugutextquestions",
-    "license_agreement_website" : "",
-    "name" : " ప్రశ్న సంభాషణలు    ",
-    "privacy_policy_website" : "",
-    "publisher" : " స్టికెర్స్ రాజా ",
-    "publisher_email" : "stickersraja@gmail.com",
-    "publisher_website" : "",
-    "stickers" : [ {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext1.webp?alt=media&token=b9d976e8-b817-41b6-9463-def17ee94f7b"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext2.webp?alt=media&token=c92dabe3-d5a3-45db-b114-9d7c2d8a024c"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext3.webp?alt=media&token=8e10e6c1-c850-402e-98c1-86abdad224ae"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext4.webp?alt=media&token=9b00b5fe-3ea8-4789-9683-8e59c2dcf009"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext5.webp?alt=media&token=6559180f-587d-4b81-ab1c-3856bea564eb"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext6.webp?alt=media&token=aef05aa7-1a45-42b1-af28-fd551c144eb6"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext7.webp?alt=media&token=5787d8e3-a1a2-4b17-987f-dc96f1527b0f"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext8.webp?alt=media&token=542ed788-480c-40fe-aea3-a9b576e423d6"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext9.webp?alt=media&token=d536e56d-442f-461b-b8ff-e366bae77229"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext10.webp?alt=media&token=ef5a9783-f758-435c-ae53-82101df09ab7"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext11.webp?alt=media&token=4ba3f01b-a7e1-4044-aeb4-0f062c72ee35"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext12.webp?alt=media&token=bce21cfe-9aa9-4248-a18d-7bc50317b499"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext13.webp?alt=media&token=5a99b931-d1c8-49cb-a6f4-1369c456d2ee"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext14.webp?alt=media&token=a344a99d-b8b5-47ad-8386-0a68d8ab877d"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext15.webp?alt=media&token=da92ba79-26ad-442e-883c-3795ca345a0b"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext16.webp?alt=media&token=4edfdae8-2dfb-4b68-9bab-14ab82ee2d00"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext17.webp?alt=media&token=c39cd0d8-36d5-4ad9-826c-f896c2f1bb25"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext18.webp?alt=media&token=bcfbb8cb-6ba1-46de-9644-d41fe00bb15f"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext19.webp?alt=media&token=6512f411-d976-496f-b807-2b30b02956f0"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext20.webp?alt=media&token=ce9b0b37-48b7-4722-bc4f-02ab0fcb486c"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext21.webp?alt=media&token=7022b539-a7de-4891-8bcd-ac1fd4f39dda"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext22.webp?alt=media&token=80803a49-cbd3-4a96-9985-5092e5ab2131"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext23.webp?alt=media&token=779e82d6-aeb4-443e-b37f-16ae6de97627"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext24.webp?alt=media&token=eca9ce98-0318-4435-aed8-38f27b931f52"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext25.webp?alt=media&token=2d991df8-4b94-4ccb-8019-d8ed6785746f"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext26.webp?alt=media&token=c9600c2b-d917-447d-8909-d190daa2bbfd"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext27.webp?alt=media&token=7ba5665a-bec0-4cde-8306-336693841c8e"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext28.webp?alt=media&token=945d846b-8ba3-44a6-9298-1a097c23b90a"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext29.webp?alt=media&token=ac0426b4-4bb6-4b16-b298-d0d96fe3739d"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Fteluguquestiontext%2Fteluguquestiontext30.webp?alt=media&token=1d7c7090-fbf6-49e5-ad6b-f7ff2145faca"
-    } ],
-    "tray_image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftray_images%2Fteluguquestiontext.png?alt=media&token=99788d36-df26-4583-ae07-a8947a95c007"
-  }, {
-    "dcount" : 1000,
-    "dialog" : " రిప్లైస్    ",
-    "identifier" : "telugutextanswers",
-    "license_agreement_website" : "",
-    "name" : " రిప్లైస్    ",
-    "privacy_policy_website" : "",
-    "publisher" : " స్టికెర్స్ రాజా ",
-    "publisher_email" : "stickersraja@gmail.com",
-    "publisher_website" : "",
-    "stickers" : [ {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext1.webp?alt=media&token=aff89301-b049-4dc5-86ea-4d323398af0b"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext2.webp?alt=media&token=4f76fdc7-5d74-4fb7-93a7-0666b3c1fcce"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext3.webp?alt=media&token=46b9ede8-b1a7-4c3a-98fb-e5288a0a60bc"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext4.webp?alt=media&token=fd4db3df-598b-4bae-b5d4-b7ce942dc799"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext5.webp?alt=media&token=2acd7c2c-6949-4565-9100-d142a8459536"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext6.webp?alt=media&token=36ab0f4e-674d-4219-a47f-07f7c61f4213"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext7.webp?alt=media&token=4c2d69b2-158e-4a82-935c-7c81f2770fd1"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext8.webp?alt=media&token=a2309663-4d66-4b1e-af5b-603de47b70f4"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext9.webp?alt=media&token=bc6c7fc7-0a9a-4fc4-bf5c-f563268c9e6f"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext10.webp?alt=media&token=0e6887bd-2912-4fb3-a7c3-5bbe18ac3780"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext11.webp?alt=media&token=db42110c-40f0-42fa-b1b9-857c195696b6"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext12.webp?alt=media&token=ca0fddb2-7017-4ba4-a129-703092977bdc"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext13.webp?alt=media&token=2b81459c-cbe8-4afe-a078-513423710128"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext14.webp?alt=media&token=00f550f9-fe73-4e13-8910-bc23da28b9d0"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext15.webp?alt=media&token=65dd11a9-df50-487a-9bd8-faa9537e77ca"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext16.webp?alt=media&token=ecfe27b0-8e6b-40fd-86bf-d6ad4caeb08f"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext17.webp?alt=media&token=9585a811-7b20-47bb-b528-7fc7ce8ce4be"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext18.webp?alt=media&token=20578f9d-a681-4775-8ed7-b54547ab0a9d"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext19.webp?alt=media&token=6f26e400-f83c-4c1c-8507-bcea324acfa1"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext20.webp?alt=media&token=2828b320-9ae9-4f64-b5c1-316a7cf05976"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext21.webp?alt=media&token=28b51356-957e-4c21-a632-fc9fb2dad319"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext22.webp?alt=media&token=378d0c67-b922-4953-bd6e-d332aaf11dcc"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext23.webp?alt=media&token=82980cd3-0dff-4176-9300-c5a298ef2457"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext24.webp?alt=media&token=638cb0e4-f031-4fce-a364-d273a56a7628"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext25.webp?alt=media&token=7fc7dabb-8dcf-4d2f-adcd-993cb67ea572"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext26.webp?alt=media&token=b9ab289a-06cd-4453-bd4d-477860cadffa"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext27.webp?alt=media&token=99e850c2-4ad1-459c-8f44-420a008a6030"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext28.webp?alt=media&token=c99f8c61-8222-45f7-8127-6effdf7a61d6"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext29.webp?alt=media&token=ffb6638c-6c3a-4bdb-aa78-bbf10e451764"
-    }, {
-      "emojis" : [ ":)" ],
-      "image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftelugutextonly%2Ftelugutextanswers%2Fteluguanswertext30.webp?alt=media&token=bfa195ee-664e-425f-b5fc-642452399c80"
-    } ],
-    "tray_image_file" : "https://firebasestorage.googleapis.com/v0/b/stickers-raja.appspot.com/o/stickers%2Ftray_images%2Fteluguanswertext.png?alt=media&token=a157bbf4-fe84-450d-a5c9-f4b29f744757"
-  }
+"dialog":"డైలీ విషెస్",
+"identifier":"dailywtextt",
+"license_agreement_website":" ",
+"name":"డైలీ విషెస్",
+"privacy_policy_website":" ",
+"publisher":"Stickers Raja",
+"tray_image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext.png",
+"publisher_email":"stickersraja@gmail.com",
+"publisher_website":" ",
+"stickers":[
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext1.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext2.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext3.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext4.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext5.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext6.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext7.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext8.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext9.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext10.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext11.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext12.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext13.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext14.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext15.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext16.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext17.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext18.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext19.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext20.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/wishestelugutext/wishestelugutext/whisestelugutext21.webp",
+"emojis":[
+":-D"
+]
+}
+]
+},
+ {
+"dialog":"ప్రశ్న సంభాషణలు",
+"identifier":"telugutextquestions",
+"license_agreement_website":" ",
+"name":"ప్రశ్న సంభాషణలు",
+"privacy_policy_website":" ",
+"publisher":"Stickers Raja",
+"tray_image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/questions.png",
+"publisher_email":"stickersraja@gmail.com",
+"publisher_website":" ",
+"stickers":[
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/1.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/2.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/3.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/4.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/5.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/6.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/7.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/8.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/9.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/10.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/11.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/12.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/13.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/14.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/15.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/16.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/17.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/18.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/19.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/20.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/21.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/22.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/23.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/24.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/25.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/26.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/27.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/28.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/29.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/telugutextquestions/30.webp",
+"emojis":[
+":-D"
+]
+}
+]
+},
+ {
+"dialog":"రిప్లైస్",
+"identifier":"telugutextreplies",
+"license_agreement_website":" ",
+"name":"రిప్లైస్",
+"privacy_policy_website":" ",
+"publisher":"Stickers Raja",
+"tray_image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext.png",
+"publisher_email":"stickersraja@gmail.com",
+"publisher_website":" ",
+"stickers":[
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext1.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext2.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext3.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext4.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext5.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext6.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext7.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext8.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext9.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext10.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext11.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext12.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext13.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext14.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext15.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext16.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext17.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext18.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext19.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext20.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext21.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext22.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext23.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext24.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext25.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext26.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext27.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext28.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext29.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/mainallstickers/teluguanswer/teluguanswer/teluguanswertext30.webp",
+"emojis":[
+":-D"
+]
+}
+]
+}
   ]

@@ -1,5 +1,6 @@
 [
 {
+"shopcontent": "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n<style>\r\n.button {\r\n  display: inline-block;\r\n  padding: 15px 25px;\r\n  font-size: 24px;\r\n  cursor: pointer;\r\n  text-align: center;\r\n  text-decoration: none;\r\n  outline: none;\r\n  color: #fff;\r\n  background-color: #4CAF50;\r\n  border: none;\r\n  border-radius: 15px;\r\n  box-shadow: 0 9px #999;\r\n}\r\n\r\n.button:hover {background-color: #3e8e41}\r\n\r\n.button:active {\r\n  background-color: #3e8e41;\r\n  box-shadow: 0 5px #666;\r\n  transform: translateY(4px);\r\n}\r\n.button {width: 100%;}\r\n<\/style>\r\n<\/head>\r\n<body>\r\n\r\n<a href=\"https:\/\/signal.art\/addstickers\/#pack_id=8ca79e39f41b7c8b2d000f891ef98f56&pack_key=54d2fa170c3a882d0a246fc0574fa71d7daa7f6045595c15c95eb6444f548a5b\" class=\"button\">Add Stickers to Signal App<\/a>\r\n\r\n<\/body>\r\n<\/html>\r\n",
 "dialog":"Moviemix 14",
 "identifier":"moviemix14",
 "license_agreement_website":" ",

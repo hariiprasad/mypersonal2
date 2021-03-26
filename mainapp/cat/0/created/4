@@ -281,7 +281,7 @@
   {
     "shopcontent": "<!DOCTYPE html>\r\n<html>\r\n<body>\r\n\r\n<script type=\"text/javascript\">amzn_assoc_ad_type =\"responsive_search_widget\"; amzn_assoc_tracking_id =\"stickersraja-21\"; amzn_assoc_marketplace =\"amazon\"; amzn_assoc_region =\"IN\"; amzn_assoc_placement =\"\"; amzn_assoc_search_type = \"search_widget\";amzn_assoc_width =\"auto\"; amzn_assoc_height =\"auto\"; amzn_assoc_default_search_category =\"\"; amzn_assoc_default_search_key =\"\";amzn_assoc_theme =\"light\"; amzn_assoc_bg_color =\"FFFFFF\"; </script><script src=\"//z-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&Marketplace=IN\"></script>\r\n\r\n</body>\r\n</html> \r\n",
     "dialog": "Republic Day",
-    "identifier": "republicday",
+    "identifier": "republicdayanim",
     "license_agreement_website": " ",
     "name": "Republic Day",
     "privacy_policy_website": " ",
@@ -291,73 +291,19 @@
     "publisher_website": " ",
     "stickers": [
       {
-        "image_file": "https://greedyx.com/stickers/mainallstickers/festivals/republicday2020/republicday2020/republicday1.webp",
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/Brahmi/01_SendingLove.webp",
         "emojis": [
           ":-D"
         ]
       },
       {
-        "image_file": "https://greedyx.com/stickers/mainallstickers/festivals/republicday2020/republicday2020/republicday2.webp",
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/Brahmi/2.webp",
         "emojis": [
           ":-D"
         ]
       },
       {
-        "image_file": "https://greedyx.com/stickers/mainallstickers/festivals/republicday2020/republicday2020/republicday3.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://greedyx.com/stickers/mainallstickers/festivals/republicday2020/republicday2020/republicday4.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://greedyx.com/stickers/mainallstickers/festivals/republicday2020/republicday2020/republicday5.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://greedyx.com/stickers/mainallstickers/festivals/republicday2020/republicday2020/republicday6.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://greedyx.com/stickers/mainallstickers/festivals/republicday2020/republicday2020/republicday7.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://greedyx.com/stickers/mainallstickers/festivals/republicday2020/republicday2020/republicday8.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://greedyx.com/stickers/mainallstickers/festivals/republicday2020/republicday2020/republicday9.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://greedyx.com/stickers/mainallstickers/festivals/republicday2020/republicday2020/republicday10.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://greedyx.com/stickers/mainallstickers/festivals/republicday2020/republicday2020/republicday11.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://greedyx.com/stickers/mainallstickers/festivals/republicday2020/republicday2020/republicday12.webp",
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/Brahmi/1.webp",
         "emojis": [
           ":-D"
         ]

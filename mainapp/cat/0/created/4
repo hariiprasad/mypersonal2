@@ -363,36 +363,5 @@
         ]
       }
     ]
-  },
-  {
-    "dialog": "Sankranthi",
-    "identifier": "sankranthiani",
-    "license_agreement_website": " ",
-    "name": "Animated testing",
-    "privacy_policy_website": " ",
-    "publisher": "Stickers Raja",
-    "tray_image_file": "https://greedyx.com/stickers/mainallstickers/festivals/sankranthi/sankranthi/sankranthi.png",
-    "publisher_email": "stickersraja@gmail.com",
-    "publisher_website": " ",
-    "stickers": [
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/Brahmi/1.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/Brahmi/2.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/Brahmi/2%20-%20Copy.webp",
-        "emojis": [
-          ":-D"
-        ]
-      }
-    ]
   }
 ]

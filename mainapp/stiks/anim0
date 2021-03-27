@@ -1,0 +1,143 @@
+[
+  {
+    "shopcontent": " ",
+    "animated_sticker_pack": true,
+    "dialog": "Animation Test",
+    "identifier": "animationtest",
+    "license_agreement_website": " ",
+    "name": "Animation Test",
+    "privacy_policy_website": " ",
+    "publisher": "Stickers Raja",
+    "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/01.png",
+    "publisher_email": "stickersraja@gmail.com",
+    "publisher_website": " ",
+    "stickers": [
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/1.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/2.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/3.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/4.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/5.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/6.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/7.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/8.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/9.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/10.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/11.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/12.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/13.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/14.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/15.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/16.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/17.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/18.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/19.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/20.webp",
+        "emojis": [
+          ":-D"
+        ]
+      },
+      {
+        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/21.webp",
+        "emojis": [
+          ":-D"
+        ]
+      }
+    ]
+  }
+]

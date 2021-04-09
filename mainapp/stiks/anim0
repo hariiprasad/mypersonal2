@@ -2,6 +2,69 @@
   {
 "shopcontent":" ",
 "animated_sticker_pack": true,
+"dialog":"IPL Animated",
+"identifier":"iplanim",
+"license_agreement_website":" ",
+"name":"IPL Animated",
+"privacy_policy_website":" ",
+"publisher":"Stickers Raja",
+"tray_image_file":"https://greedyx.com/stickers/AnimatedStickers/iplanim/iplanim/ipl.png",
+"publisher_email":"stickersraja@gmail.com",
+"publisher_website":" ",
+"stickers":[
+{
+"image_file":"https://greedyx.com/stickers/AnimatedStickers/iplanim/iplanim/1.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/AnimatedStickers/iplanim/iplanim/2.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/AnimatedStickers/iplanim/iplanim/3.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/AnimatedStickers/iplanim/iplanim/4.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/AnimatedStickers/iplanim/iplanim/5.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/AnimatedStickers/iplanim/iplanim/6.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/AnimatedStickers/iplanim/iplanim/7.webp",
+"emojis":[
+":-D"
+]
+},
+{
+"image_file":"https://greedyx.com/stickers/AnimatedStickers/iplanim/iplanim/8.webp",
+"emojis":[
+":-D"
+]
+}
+]
+},
+{
+"shopcontent":" ",
+"animated_sticker_pack": true,
 "dialog":"Brahmi 1",
 "identifier":"brahmi1animated",
 "license_agreement_website":" ",

@@ -1,10 +1,18 @@
 [
  {
-    "id": 2,
-    "title": "5 Star rating ivvandamma",
+    "id": 1,
+    "title": "Singup Now",
     "type": "2",
     "pos" : 9,
-    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/images/brahmiratedookudu.jpg",
-    "url": "https://play.google.com/store/apps/details?id=com.stickersrajatelugu.stickersrajatelugu"
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/images/wazirxinvite.jpg",
+    "url": "https://wazirx.com/invite/vfyuwq2x"
+  },
+  {
+    "id": 2,
+    "title": "Download Now",
+    "type": "2",
+    "pos" : 9,
+    "image": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/images/wazirx3.jpg",
+    "url": "https://wazirx.com/invite/vfyuwq2x"
   }
 ]

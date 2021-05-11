@@ -5,7 +5,7 @@
 "dialog":"Dubai Seenu v2",
 "identifier":"dubaiseenuanimatedv2",
 "license_agreement_website":" ",
-"name":"Dubai Seenu v2",
+"name":"Dubai Seenu v2 animated",
 "privacy_policy_website":" ",
 "publisher":"Stickers Raja",
 "tray_image_file":"https://greedyx.com/stickers/AnimatedStickers/dubaiseenuanim/dubaiseenuanim/eng/1/dubai.png",
@@ -119,10 +119,10 @@
 {
 "shopcontent":" ",
 "animated_sticker_pack": true,
-"dialog":"Dubai Seenu",
+"dialog":"Dubai Seenu animated",
 "identifier":"dubaiseenuanimatedv1",
 "license_agreement_website":" ",
-"name":"Dubai Seenu",
+"name":"Dubai Seenu animated",
 "privacy_policy_website":" ",
 "publisher":"Stickers Raja",
 "tray_image_file":"https://greedyx.com/stickers/AnimatedStickers/dubaiseenuanim/dubaiseenuanim/eng/1/dubai.png",
@@ -239,111 +239,7 @@
 "dialog":"Eenagaraniki emaindi v2",
 "identifier":"eneanim2",
 "license_agreement_website":" ",
-"name":"Eenagaraniki emaindi v2",
-"privacy_policy_website":" ",
-"publisher":"Stickers Raja",
-"tray_image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagarainikianimeng/ene.png",
-"publisher_email":"stickersraja@gmail.com",
-"publisher_website":" ",
-"stickers":[
-{
-"image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagaranikianimeng2/16.webp",
-"emojis":[
-":-D"
-]
-},
-{
-"image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagaranikianimeng2/17.webp",
-"emojis":[
-":-D"
-]
-},
-{
-"image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagaranikianimeng2/18.webp",
-"emojis":[
-":-D"
-]
-},
-{
-"image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagaranikianimeng2/19.webp",
-"emojis":[
-":-D"
-]
-},
-{
-"image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagaranikianimeng2/20.webp",
-"emojis":[
-":-D"
-]
-},
-{
-"image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagaranikianimeng2/21.webp",
-"emojis":[
-":-D"
-]
-},
-{
-"image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagaranikianimeng2/22.webp",
-"emojis":[
-":-D"
-]
-},
-{
-"image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagaranikianimeng2/23.webp",
-"emojis":[
-":-D"
-]
-},
-{
-"image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagaranikianimeng2/24.webp",
-"emojis":[
-":-D"
-]
-},
-{
-"image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagaranikianimeng2/25.webp",
-"emojis":[
-":-D"
-]
-},
-{
-"image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagaranikianimeng2/26.webp",
-"emojis":[
-":-D"
-]
-},
-{
-"image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagaranikianimeng2/27.webp",
-"emojis":[
-":-D"
-]
-},
-{
-"image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagaranikianimeng2/28.webp",
-"emojis":[
-":-D"
-]
-},
-{
-"image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagaranikianimeng2/29.webp",
-"emojis":[
-":-D"
-]
-},
-{
-"image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagaranikianimeng2/30.webp",
-"emojis":[
-":-D"
-]
-}
-]
-},{
-"shopcontent":" ",
-"animated_sticker_pack": true,
-"dialog":"Eenagaraniki emaindi v2",
-"identifier":"eneanim2",
-"license_agreement_website":" ",
-"name":"Eenagaraniki emaindi v2",
+"name":"Eenagaraniki emaindi v2 animated",
 "privacy_policy_website":" ",
 "publisher":"Stickers Raja",
 "tray_image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagarainikianimeng/ene.png",
@@ -448,7 +344,7 @@
 "dialog":"Eenagaraniki emaindi v1",
 "identifier":"eneanim1",
 "license_agreement_website":" ",
-"name":"Eenagaraniki emaindi v1",
+"name":"Eenagaraniki emaindi v1 animated",
 "privacy_policy_website":" ",
 "publisher":"Stickers Raja",
 "tray_image_file":"https://greedyx.com/stickers/AnimatedStickers/eneanim1and2/eenagarainikianimeng/ene.png",
@@ -546,13 +442,14 @@
 ]
 }
 ]
-},{
+},
+{
 "shopcontent":" ",
 "animated_sticker_pack": true,
 "dialog":"IPL Animated",
 "identifier":"iplanim",
 "license_agreement_website":" ",
-"name":"IPL Animated",
+"name":"IPL Animated animated",
 "privacy_policy_website":" ",
 "publisher":"Stickers Raja",
 "tray_image_file":"https://greedyx.com/stickers/AnimatedStickers/iplanim/iplanim/ipl.png",
@@ -615,7 +512,7 @@
 "dialog":"Brahmi 1",
 "identifier":"brahmi1animated",
 "license_agreement_website":" ",
-"name":"Brahmi 1",
+"name":"Brahmi 1 animated",
 "privacy_policy_website":" ",
 "publisher":"Stickers Raja",
 "tray_image_file":"https://greedyx.com/stickers/AnimatedStickers/brahmi1/Brahmi1/brahmi.png",
@@ -725,146 +622,5 @@
 ]
 }
 ]
-},
-{
-    "shopcontent": " ",
-    "animated_sticker_pack": true,
-    "dialog": "Together While Apart",
-    "identifier": "togethrwhileapart",
-    "license_agreement_website": " ",
-    "name": "Together While Apart",
-    "privacy_policy_website": " ",
-    "publisher": "Stickers Raja",
-    "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/01.png",
-    "publisher_email": "stickersraja@gmail.com",
-    "publisher_website": " ",
-    "stickers": [
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/1.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/2.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/3.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/4.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/5.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/6.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/7.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/8.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/9.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/10.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/11.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/12.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/13.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/14.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/15.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/16.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/17.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/18.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/19.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/20.webp",
-        "emojis": [
-          ":-D"
-        ]
-      },
-      {
-        "image_file": "https://raw.githubusercontent.com/hariiprasad/mypersonal2/master/mainapp/anim/sample/21.webp",
-        "emojis": [
-          ":-D"
-        ]
-      }
-    ]
-  }
+}
 ]

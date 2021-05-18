@@ -4,6 +4,7 @@
   "sticker_packs": [
     {
     "shopcontent": " ",
+	"tags" : "tushar",
     "animated_sticker_pack": true,
     "dialog": "Animation Test",
     "identifier": "animationtest",

@@ -8,7 +8,7 @@
     },
     {
       "name": "ADMIN_APP_ID",
-      "value": "ca-app-pub-2338696600763908~5310647529"
+      "value": "ca-app-pub-2338696600763908~8549337303"
     },
     {
       "name": "ADMIN_PUBLISHER_ID",
@@ -16,11 +16,11 @@
     },
     {
       "name": "ADMIN_REWARDED_ADMOB_ID",
-      "value": "ca-app-pub-2338696600763908/5405015550"
+      "value": "ca-app-pub-2338696600763908/4714080484"
     },
     {
       "name": "ADMIN_INTERSTITIAL_ADMOB_ID",
-      "value": "ca-app-pub-2338696600763908/6589383259"
+      "value": "ca-app-pub-2338696600763908/4905652173"
     },
     {
       "name": "ADMIN_NATIVE_BANNER_FACEBOOK_ID",
@@ -40,7 +40,7 @@
     },
     {
       "name": "ADMIN_BANNER_ADMOB_ID",
-      "value": "ca-app-pub-2338696600763908/4927504144"
+      "value": "ca-app-pub-2338696600763908/3365339797"
     },
     {
       "name": "ADMIN_BANNER_FACEBOOK_ID",
@@ -56,7 +56,7 @@
     },
     {
       "name": "ADMIN_NATIVE_ADMOB_ID",
-      "value": "ca-app-pub-2338696600763908/2070707253"
+      "value": "ca-app-pub-2338696600763908/7228563180"
     },
     {
       "name": "ADMIN_NATIVE_LINES",
